@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import ProgressBar from './ProgressBar.jsx';
 import StepNav from './StepNav.jsx';
 import TileGrid from './TileGrid.jsx';
+import { isLastSelectionStep } from '../lib/navigation.js';
 import { getSelectedItems } from '../lib/selection.js';
 
 export default function StepPage({
@@ -12,6 +13,7 @@ export default function StepPage({
   onShowResult,
   onToggle,
   section,
+  sectionCount,
   sections,
   selectedIds,
   selection,
@@ -39,7 +41,16 @@ export default function StepPage({
 
       <StepNav currentIndex={currentIndex} onJump={onJump} sections={sections} selection={selection} />
 
-      <div className="category-tabs" role="tablist" aria-label={`${section.titleZh}分类`}>
+      <div
+        className="category-tabs"
+        role="tablist"
+        aria-label={`${section.titleZh}分类`}
+        onWheel={(event) => {
+          if (Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
+            event.currentTarget.scrollLeft += event.deltaY;
+          }
+        }}
+      >
         <button className={subcategoryId === 'all' ? 'active' : ''} type="button" onClick={() => setSubcategoryId('all')}>
           全部
         </button>
@@ -70,7 +81,7 @@ export default function StepPage({
           Prompt
         </button>
         <button className="primary-button" type="button" onClick={onNext}>
-          {currentIndex === totalSteps - 1 ? '生成 Prompt' : '下一步'}
+          {isLastSelectionStep(currentIndex, sectionCount) ? '生成 Prompt' : '下一步'}
         </button>
       </footer>
     </main>

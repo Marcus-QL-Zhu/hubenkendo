@@ -5,6 +5,7 @@ import ResultPage from './components/ResultPage.jsx';
 import { buildPrompts } from './lib/promptBuilder.js';
 import { hasSelections, toggleSelection } from './lib/selection.js';
 import { loadSelection, saveSelection } from './lib/storage.js';
+import { nextWizardTarget } from './lib/navigation.js';
 
 const SOURCE_URL = 'https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA';
 const IMAGE_URL = 'https://ai.mikuapi.org/?invite_code=QNCW6';
@@ -77,11 +78,9 @@ export default function App() {
   }
 
   function goNext() {
-    if (stepIndex >= totalSteps - 1) {
-      setScreen('result');
-      return;
-    }
-    setStepIndex((index) => index + 1);
+    const target = nextWizardTarget(stepIndex, catalog.sections.length);
+    setStepIndex(target.stepIndex);
+    setScreen(target.screen);
   }
 
   function goPrevious() {
@@ -126,6 +125,7 @@ export default function App() {
       onShowResult={() => setScreen('result')}
       onToggle={updateSelection}
       section={currentSection}
+      sectionCount={catalog.sections.length}
       sections={catalog.sections}
       selectedIds={selection[currentSection.id] || []}
       selection={selection}
