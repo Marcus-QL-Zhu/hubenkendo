@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import ProgressBar from './ProgressBar.jsx';
 import StepNav from './StepNav.jsx';
 import TileGrid from './TileGrid.jsx';
@@ -20,6 +20,7 @@ export default function StepPage({
   totalSteps
 }) {
   const [subcategoryId, setSubcategoryId] = useState('all');
+  const categoryTabsRef = useRef(null);
   const selectedItems = getSelectedItems(section, selectedIds);
   const visibleItems = useMemo(() => {
     if (subcategoryId === 'all') {
@@ -27,6 +28,20 @@ export default function StepPage({
     }
     return section.subcategories.find((subcategory) => subcategory.id === subcategoryId)?.items || [];
   }, [section, subcategoryId]);
+
+  useEffect(() => {
+    const element = categoryTabsRef.current;
+    if (!element) return undefined;
+
+    function handleWheel(event) {
+      if (Math.abs(event.deltaY) <= Math.abs(event.deltaX)) return;
+      event.preventDefault();
+      element.scrollLeft += event.deltaY;
+    }
+
+    element.addEventListener('wheel', handleWheel, { passive: false });
+    return () => element.removeEventListener('wheel', handleWheel);
+  }, []);
 
   return (
     <main className="app-shell tool-page">
@@ -43,13 +58,9 @@ export default function StepPage({
 
       <div
         className="category-tabs"
+        ref={categoryTabsRef}
         role="tablist"
         aria-label={`${section.titleZh}分类`}
-        onWheel={(event) => {
-          if (Math.abs(event.deltaY) > Math.abs(event.deltaX)) {
-            event.currentTarget.scrollLeft += event.deltaY;
-          }
-        }}
       >
         <button className={subcategoryId === 'all' ? 'active' : ''} type="button" onClick={() => setSubcategoryId('all')}>
           全部

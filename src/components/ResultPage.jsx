@@ -42,7 +42,7 @@ export default function ResultPage({ catalog, imageUrl, onEdit, prompts, sourceU
       <PromptBox label="English Prompt" text={prompts.en} />
 
       <div className="result-actions">
-        <a className="primary-button link-button" href={imageUrl} target="_blank" rel="noreferrer">
+        <a className="primary-button link-button" href={imageUrl}>
           打开 GPT image 2
         </a>
         <button className="secondary-button" type="button" onClick={() => onEdit(0)}>
