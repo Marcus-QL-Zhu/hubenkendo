@@ -1,7 +1,8 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import ProgressBar from './ProgressBar.jsx';
 import StepNav from './StepNav.jsx';
 import TileGrid from './TileGrid.jsx';
+import { useHorizontalWheel } from '../hooks/useHorizontalWheel.js';
 import { isLastSelectionStep } from '../lib/navigation.js';
 import { getSelectedItems } from '../lib/selection.js';
 
@@ -29,19 +30,7 @@ export default function StepPage({
     return section.subcategories.find((subcategory) => subcategory.id === subcategoryId)?.items || [];
   }, [section, subcategoryId]);
 
-  useEffect(() => {
-    const element = categoryTabsRef.current;
-    if (!element) return undefined;
-
-    function handleWheel(event) {
-      if (Math.abs(event.deltaY) <= Math.abs(event.deltaX)) return;
-      event.preventDefault();
-      element.scrollLeft += event.deltaY;
-    }
-
-    element.addEventListener('wheel', handleWheel, { passive: false });
-    return () => element.removeEventListener('wheel', handleWheel);
-  }, []);
+  useHorizontalWheel(categoryTabsRef);
 
   return (
     <main className="app-shell tool-page">

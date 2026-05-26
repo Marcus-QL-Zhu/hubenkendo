@@ -382,6 +382,14 @@ a {
   word-break: break-word;
   color: #3f3039;
   font: 14px/1.6 "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  user-select: text;
+}
+
+.copy-hint {
+  margin: 0;
+  color: #9b526f;
+  font-size: 13px;
+  font-weight: 700;
 }
 
 .result-actions {

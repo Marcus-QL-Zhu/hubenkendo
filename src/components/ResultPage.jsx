@@ -1,29 +1,45 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import ProgressBar from './ProgressBar.jsx';
+import { copyText as copyToClipboard, selectElementText } from '../lib/copyText.js';
 
 function PromptBox({ label, text }) {
-  const [copied, setCopied] = useState(false);
+  const [copyState, setCopyState] = useState('idle');
+  const promptRef = useRef(null);
 
   async function copyText() {
-    try {
-      await navigator.clipboard.writeText(text);
-      setCopied(true);
-      window.setTimeout(() => setCopied(false), 1400);
-    } catch {
-      setCopied(false);
-      window.alert('复制失败，请长按文本手动复制。');
+    const copiedSuccessfully = await copyToClipboard(text);
+    if (copiedSuccessfully) {
+      setCopyState('copied');
+      window.setTimeout(() => setCopyState('idle'), 1400);
+      return;
     }
+
+    if (selectElementText(promptRef.current)) {
+      setCopyState('selected');
+      window.setTimeout(() => setCopyState('idle'), 2200);
+      return;
+    }
+
+    setCopyState('manual');
   }
+
+  const buttonText = {
+    idle: '复制',
+    copied: '已复制',
+    selected: '已选中',
+    manual: '手动复制'
+  }[copyState];
 
   return (
     <section className="prompt-box">
       <div className="prompt-title">
         <h2>{label}</h2>
         <button className="secondary-button small" type="button" onClick={copyText}>
-          {copied ? '已复制' : '复制'}
+          {buttonText}
         </button>
       </div>
-      <pre>{text}</pre>
+      <pre ref={promptRef}>{text}</pre>
+      {copyState === 'selected' ? <p className="copy-hint">浏览器限制了自动复制，文本已选中。</p> : null}
     </section>
   );
 }
