@@ -34,14 +34,24 @@ describe('buildPrompts', () => {
       outfit: ['button-up-shirt', 'pleated-skirt']
     });
 
-    expect(result.zh).toBe(['角色设定：', '发型：中分', '服饰：白衬衫，百褶裙'].join('\n'));
-    expect(result.en).toBe(['Character:', 'Hair: Middle Part', 'Outfit: Button-up Shirt, Pleated Skirt'].join('\n'));
+    expect(result.zh).toBe([
+      '充满女友感的真实照片写真，真实人物摄影风格，自然亲近，生活感，非二次元，非插画。',
+      '角色设定：',
+      '发型：中分',
+      '服饰：白衬衫，百褶裙'
+    ].join('\n'));
+    expect(result.en).toBe([
+      'A girlfriend-like realistic portrait photo, real-person photography style, natural and intimate, lifestyle feeling, not anime, not illustration.',
+      'Character:',
+      'Hair: Middle Part',
+      'Outfit: Button-up Shirt, Pleated Skirt'
+    ].join('\n'));
   });
 
   it('skips empty sections', () => {
     const result = buildPrompts(catalog, { hair: [] });
 
-    expect(result.zh).toBe('角色设定：');
-    expect(result.en).toBe('Character:');
+    expect(result.zh).toContain('充满女友感的真实照片写真');
+    expect(result.en).toContain('girlfriend-like realistic portrait photo');
   });
 });
