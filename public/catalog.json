@@ -9,8 +9,9 @@
       "subcategories": [
         {
           "id": "hair-group",
-          "titleZh": "分缝",
-          "titleEn": "轮廓",
+          "titleZh": "分缝 / 轮廓",
+          "titleEn": "分缝 / 轮廓",
+          "sourceTitleKey": "分缝/轮廓",
           "items": [
             {
               "id": "middle-part",
@@ -43,14 +44,7 @@
               "image": "assets/tiles/zigzag-part.webp",
               "sourceImage": "text_to_pic_files/640(1)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-2",
-          "titleZh": "分缝",
-          "titleEn": "轮廓",
-          "items": [
+            },
             {
               "id": "slicked-back",
               "zh": "大背头",
@@ -86,9 +80,10 @@
           ]
         },
         {
-          "id": "hair-group-3",
-          "titleZh": "刘海",
-          "titleEn": "前额",
+          "id": "hair-group-2",
+          "titleZh": "刘海 / 前额",
+          "titleEn": "刘海 / 前额",
+          "sourceTitleKey": "刘海/前额",
           "items": [
             {
               "id": "curtain-bangs",
@@ -121,14 +116,7 @@
               "image": "assets/tiles/side-swept-bangs.webp",
               "sourceImage": "text_to_pic_files/640(3)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-4",
-          "titleZh": "刘海",
-          "titleEn": "前额",
-          "items": [
+            },
             {
               "id": "baby-bangs",
               "zh": "超短刘海",
@@ -164,9 +152,10 @@
           ]
         },
         {
-          "id": "hair-group-5",
-          "titleZh": "马尾",
-          "titleEn": "半扎",
+          "id": "hair-group-3",
+          "titleZh": "马尾 / 半扎",
+          "titleEn": "马尾 / 半扎",
+          "sourceTitleKey": "马尾/半扎",
           "items": [
             {
               "id": "high-ponytail",
@@ -199,14 +188,7 @@
               "image": "assets/tiles/side-ponytail.webp",
               "sourceImage": "text_to_pic_files/640(5)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-6",
-          "titleZh": "马尾",
-          "titleEn": "半扎",
-          "items": [
+            },
             {
               "id": "sleek-ponytail",
               "zh": "光滑马尾",
@@ -242,9 +224,10 @@
           ]
         },
         {
-          "id": "hair-group-7",
-          "titleZh": "发髻",
-          "titleEn": "盘发",
+          "id": "hair-group-4",
+          "titleZh": "发髻 / 盘发",
+          "titleEn": "发髻 / 盘发",
+          "sourceTitleKey": "发髻/盘发",
           "items": [
             {
               "id": "top-knot",
@@ -277,14 +260,7 @@
               "image": "assets/tiles/chignon.webp",
               "sourceImage": "text_to_pic_files/640(7)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-8",
-          "titleZh": "发髻",
-          "titleEn": "盘发",
-          "items": [
+            },
             {
               "id": "ballerina-bun",
               "zh": "芭蕾发髻",
@@ -316,14 +292,7 @@
               "image": "assets/tiles/french-twist.webp",
               "sourceImage": "text_to_pic_files/640(8)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-9",
-          "titleZh": "发髻",
-          "titleEn": "盘发",
-          "items": [
+            },
             {
               "id": "claw-clip-updo",
               "zh": "鲨鱼夹盘发",
@@ -359,9 +328,10 @@
           ]
         },
         {
-          "id": "hair-group-10",
-          "titleZh": "按长度",
-          "titleEn": "裁剪",
+          "id": "hair-group-5",
+          "titleZh": "按长度/裁剪",
+          "titleEn": "按长度/裁剪",
+          "sourceTitleKey": "按长度/裁剪",
           "items": [
             {
               "id": "long-bob",
@@ -394,14 +364,7 @@
               "image": "assets/tiles/hime-cut.webp",
               "sourceImage": "text_to_pic_files/640(10)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-11",
-          "titleZh": "按长度",
-          "titleEn": "裁剪",
-          "items": [
+            },
             {
               "id": "undercut",
               "zh": "底削",
@@ -433,14 +396,7 @@
               "image": "assets/tiles/italian-bob.webp",
               "sourceImage": "text_to_pic_files/640(11)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-12",
-          "titleZh": "按长度",
-          "titleEn": "裁剪",
-          "items": [
+            },
             {
               "id": "pixie-cut",
               "zh": "精灵短发",
@@ -476,9 +432,10 @@
           ]
         },
         {
-          "id": "hair-group-13",
-          "titleZh": "按质感",
-          "titleEn": "卷度",
+          "id": "hair-group-6",
+          "titleZh": "按质感 / 卷度",
+          "titleEn": "按质感 / 卷度",
+          "sourceTitleKey": "按质感/卷度",
           "items": [
             {
               "id": "sleek-straight",
@@ -511,14 +468,7 @@
               "image": "assets/tiles/hollywood-waves.webp",
               "sourceImage": "text_to_pic_files/640(13)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-14",
-          "titleZh": "按质感",
-          "titleEn": "卷度",
-          "items": [
+            },
             {
               "id": "s-waves",
               "zh": "S型波浪",
@@ -550,14 +500,7 @@
               "image": "assets/tiles/coily-hair.webp",
               "sourceImage": "text_to_pic_files/640(14)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-15",
-          "titleZh": "按质感",
-          "titleEn": "卷度",
-          "items": [
+            },
             {
               "id": "afro",
               "zh": "爆炸头",
@@ -593,9 +536,10 @@
           ]
         },
         {
-          "id": "hair-group-16",
+          "id": "hair-group-7",
           "titleZh": "编发",
           "titleEn": "编发",
+          "sourceTitleKey": "编发",
           "items": [
             {
               "id": "crown-braid",
@@ -696,9 +640,10 @@
           ]
         },
         {
-          "id": "hair-group-17",
-          "titleZh": "复古",
-          "titleEn": "风格化",
+          "id": "hair-group-8",
+          "titleZh": "复古 / 风格化",
+          "titleEn": "复古 / 风格化",
+          "sourceTitleKey": "复古/风格化",
           "items": [
             {
               "id": "victory-rolls",
@@ -731,14 +676,7 @@
               "image": "assets/tiles/bouffant.webp",
               "sourceImage": "text_to_pic_files/640(19)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-group-18",
-          "titleZh": "复古",
-          "titleEn": "风格化",
-          "items": [
+            },
             {
               "id": "flapper-bob",
               "zh": "爵士时代短波波",
@@ -783,8 +721,9 @@
       "subcategories": [
         {
           "id": "hair-accessories-group",
-          "titleZh": "发夹",
-          "titleEn": "固定夹类",
+          "titleZh": "发夹 / 固定夹类",
+          "titleEn": "发夹 / 固定夹类",
+          "sourceTitleKey": "发夹/固定夹类",
           "items": [
             {
               "id": "bobby-pin",
@@ -817,14 +756,7 @@
               "image": "assets/tiles/snap-clip.webp",
               "sourceImage": "text_to_pic_files/640(21)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-2",
-          "titleZh": "发夹",
-          "titleEn": "固定夹类",
-          "items": [
+            },
             {
               "id": "french-barrette",
               "zh": "法式发夹",
@@ -860,9 +792,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-3",
-          "titleZh": "发圈",
-          "titleEn": "扎发类",
+          "id": "hair-accessories-group-2",
+          "titleZh": "发圈 / 扎发类",
+          "titleEn": "发圈 / 扎发类",
+          "sourceTitleKey": "发圈/扎发类",
           "items": [
             {
               "id": "hair-tie",
@@ -895,14 +828,7 @@
               "image": "assets/tiles/ribbon-hair-tie.webp",
               "sourceImage": "text_to_pic_files/640(23)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-4",
-          "titleZh": "发圈",
-          "titleEn": "扎发类",
-          "items": [
+            },
             {
               "id": "pearl-hair-tie",
               "zh": "珍珠发圈",
@@ -938,9 +864,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-5",
-          "titleZh": "发箍",
-          "titleEn": "发带类",
+          "id": "hair-accessories-group-3",
+          "titleZh": "发箍 / 发带类",
+          "titleEn": "发箍 / 发带类",
+          "sourceTitleKey": "发箍/发带类",
           "items": [
             {
               "id": "thin-headband",
@@ -973,14 +900,7 @@
               "image": "assets/tiles/alice-band.webp",
               "sourceImage": "text_to_pic_files/640(25)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-6",
-          "titleZh": "发箍",
-          "titleEn": "发带类",
-          "items": [
+            },
             {
               "id": "sports-headband",
               "zh": "运动发带",
@@ -1016,9 +936,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-7",
-          "titleZh": "蝴蝶结",
-          "titleEn": "丝带类",
+          "id": "hair-accessories-group-4",
+          "titleZh": "蝴蝶结 / 丝带类",
+          "titleEn": "蝴蝶结 / 丝带类",
+          "sourceTitleKey": "蝴蝶结/丝带类",
           "items": [
             {
               "id": "small-hair-bow",
@@ -1051,14 +972,7 @@
               "image": "assets/tiles/satin-ribbon.webp",
               "sourceImage": "text_to_pic_files/640(27)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-8",
-          "titleZh": "蝴蝶结",
-          "titleEn": "丝带类",
-          "items": [
+            },
             {
               "id": "velvet-ribbon",
               "zh": "丝绒缎带",
@@ -1094,9 +1008,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-9",
-          "titleZh": "发簪",
-          "titleEn": "发钗",
+          "id": "hair-accessories-group-5",
+          "titleZh": "发簪 / 发钗 / 发梳类",
+          "titleEn": "发簪 / 发钗 / 发梳类",
+          "sourceTitleKey": "发簪/发钗/发梳类",
           "items": [
             {
               "id": "hair-stick",
@@ -1129,14 +1044,7 @@
               "image": "assets/tiles/decorative-hair-comb.webp",
               "sourceImage": "text_to_pic_files/640(29)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-10",
-          "titleZh": "发簪",
-          "titleEn": "发钗",
-          "items": [
+            },
             {
               "id": "side-comb",
               "zh": "侧发梳",
@@ -1172,9 +1080,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-11",
-          "titleZh": "珠宝",
-          "titleEn": "金属装饰类",
+          "id": "hair-accessories-group-6",
+          "titleZh": "珠宝 / 金属装饰类",
+          "titleEn": "珠宝 / 金属装饰类",
+          "sourceTitleKey": "珠宝/金属装饰类",
           "items": [
             {
               "id": "pearl-hair-pins",
@@ -1207,14 +1116,7 @@
               "image": "assets/tiles/gold-hair-cuff.webp",
               "sourceImage": "text_to_pic_files/640(31)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-12",
-          "titleZh": "珠宝",
-          "titleEn": "金属装饰类",
-          "items": [
+            },
             {
               "id": "hair-chain",
               "zh": "发链",
@@ -1250,9 +1152,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-13",
-          "titleZh": "花朵",
-          "titleEn": "新娘",
+          "id": "hair-accessories-group-7",
+          "titleZh": "花朵 / 新娘 / 礼服类",
+          "titleEn": "花朵 / 新娘 / 礼服类",
+          "sourceTitleKey": "花朵/新娘/礼服类",
           "items": [
             {
               "id": "fresh-flower",
@@ -1285,14 +1188,7 @@
               "image": "assets/tiles/baby-x27-s-breath-pins.webp",
               "sourceImage": "text_to_pic_files/640(33)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-14",
-          "titleZh": "花朵",
-          "titleEn": "新娘",
-          "items": [
+            },
             {
               "id": "bridal-hair-vine",
               "zh": "新娘发藤",
@@ -1328,9 +1224,10 @@
           ]
         },
         {
-          "id": "hair-accessories-group-15",
-          "titleZh": "风格化",
-          "titleEn": "文化",
+          "id": "hair-accessories-group-8",
+          "titleZh": "风格化 / 文化 / 幻想类",
+          "titleEn": "风格化 / 文化 / 幻想类",
+          "sourceTitleKey": "风格化/文化/幻想类",
           "items": [
             {
               "id": "feather-hairpiece",
@@ -1363,14 +1260,7 @@
               "image": "assets/tiles/cyberpunk-hair-clip.webp",
               "sourceImage": "text_to_pic_files/640(35)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hair-accessories-group-16",
-          "titleZh": "风格化",
-          "titleEn": "文化",
-          "items": [
+            },
             {
               "id": "led-hair-accessory",
               "zh": "LED发饰",
@@ -1415,8 +1305,9 @@
       "subcategories": [
         {
           "id": "tops",
-          "titleZh": "上装",
-          "titleEn": "Tops",
+          "titleZh": "上装 / Tops",
+          "titleEn": "上装 / Tops",
+          "sourceTitleKey": "上装/Tops",
           "items": [
             {
               "id": "basic-t-shirt",
@@ -1449,14 +1340,7 @@
               "image": "assets/tiles/camisole-top.webp",
               "sourceImage": "text_to_pic_files/640(37)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "tops-2",
-          "titleZh": "上装",
-          "titleEn": "Tops",
-          "items": [
+            },
             {
               "id": "knit-sweater",
               "zh": "针织毛衣",
@@ -1488,14 +1372,7 @@
               "image": "assets/tiles/cardigan.webp",
               "sourceImage": "text_to_pic_files/640(38)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "tops-3",
-          "titleZh": "上装",
-          "titleEn": "Tops",
-          "items": [
+            },
             {
               "id": "sports-bra",
               "zh": "运动内衣",
@@ -1532,8 +1409,9 @@
         },
         {
           "id": "bottoms",
-          "titleZh": "下装",
-          "titleEn": "Bottoms",
+          "titleZh": "下装 / Bottoms",
+          "titleEn": "下装 / Bottoms",
+          "sourceTitleKey": "下装/Bottoms",
           "items": [
             {
               "id": "jeans",
@@ -1566,14 +1444,7 @@
               "image": "assets/tiles/cargo-pants.webp",
               "sourceImage": "text_to_pic_files/640(40)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "bottoms-2",
-          "titleZh": "下装",
-          "titleEn": "Bottoms",
-          "items": [
+            },
             {
               "id": "mini-skirt",
               "zh": "迷你裙",
@@ -1605,14 +1476,7 @@
               "image": "assets/tiles/tulle-skirt.webp",
               "sourceImage": "text_to_pic_files/640(41)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "bottoms-3",
-          "titleZh": "下装",
-          "titleEn": "Bottoms",
-          "items": [
+            },
             {
               "id": "shorts",
               "zh": "短裤",
@@ -1649,8 +1513,9 @@
         },
         {
           "id": "dresses",
-          "titleZh": "连衣裙",
-          "titleEn": "Dresses",
+          "titleZh": "连衣裙 / Dresses",
+          "titleEn": "连衣裙 / Dresses",
+          "sourceTitleKey": "连衣裙/Dresses",
           "items": [
             {
               "id": "shirt-dress",
@@ -1683,14 +1548,7 @@
               "image": "assets/tiles/maxi-dress.webp",
               "sourceImage": "text_to_pic_files/640(43)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "dresses-2",
-          "titleZh": "连衣裙",
-          "titleEn": "Dresses",
-          "items": [
+            },
             {
               "id": "cocktail-dress",
               "zh": "鸡尾酒裙",
@@ -1727,8 +1585,9 @@
         },
         {
           "id": "outerwear",
-          "titleZh": "外套",
-          "titleEn": "Outerwear",
+          "titleZh": "外套 / Outerwear",
+          "titleEn": "外套 / Outerwear",
+          "sourceTitleKey": "外套/Outerwear",
           "items": [
             {
               "id": "blazer",
@@ -1761,14 +1620,7 @@
               "image": "assets/tiles/leather-jacket.webp",
               "sourceImage": "text_to_pic_files/640(45)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "outerwear-2",
-          "titleZh": "外套",
-          "titleEn": "Outerwear",
-          "items": [
+            },
             {
               "id": "bomber-jacket",
               "zh": "飞行员夹克",
@@ -1805,8 +1657,9 @@
         },
         {
           "id": "necklines",
-          "titleZh": "领口",
-          "titleEn": "Necklines",
+          "titleZh": "领口 / Necklines",
+          "titleEn": "领口 / Necklines",
+          "sourceTitleKey": "领口/Necklines",
           "items": [
             {
               "id": "crew-neck",
@@ -1839,14 +1692,7 @@
               "image": "assets/tiles/turtleneck.webp",
               "sourceImage": "text_to_pic_files/640(47)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "necklines-2",
-          "titleZh": "领口",
-          "titleEn": "Necklines",
-          "items": [
+            },
             {
               "id": "halter-neck",
               "zh": "挂脖领",
@@ -1883,8 +1729,9 @@
         },
         {
           "id": "sleeves",
-          "titleZh": "袖型",
-          "titleEn": "Sleeves",
+          "titleZh": "袖型 / Sleeves",
+          "titleEn": "袖型 / Sleeves",
+          "sourceTitleKey": "袖型/Sleeves",
           "items": [
             {
               "id": "short-sleeve",
@@ -1917,14 +1764,7 @@
               "image": "assets/tiles/bell-sleeve.webp",
               "sourceImage": "text_to_pic_files/640(49)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "sleeves-2",
-          "titleZh": "袖型",
-          "titleEn": "Sleeves",
-          "items": [
+            },
             {
               "id": "raglan-sleeve",
               "zh": "插肩袖",
@@ -1961,8 +1801,9 @@
         },
         {
           "id": "waistlines-silhouettes",
-          "titleZh": "腰线与廓形",
-          "titleEn": "Waistlines & Silhouettes",
+          "titleZh": "腰线与廓形 / Waistlines & Silhouettes",
+          "titleEn": "腰线与廓形 / Waistlines & Silhouettes",
+          "sourceTitleKey": "腰线与廓形/Waistlines&Silhouettes",
           "items": [
             {
               "id": "empire-waist",
@@ -1995,14 +1836,7 @@
               "image": "assets/tiles/peplum.webp",
               "sourceImage": "text_to_pic_files/640(51)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "waistlines-silhouettes-2",
-          "titleZh": "腰线与廓形",
-          "titleEn": "Waistlines & Silhouettes",
-          "items": [
+            },
             {
               "id": "a-line",
               "zh": "A字廓形",
@@ -2039,8 +1873,9 @@
         },
         {
           "id": "materials-textures",
-          "titleZh": "材质与纹理",
-          "titleEn": "Materials & Textures",
+          "titleZh": "材质与纹理 / Materials & Textures",
+          "titleEn": "材质与纹理 / Materials & Textures",
+          "sourceTitleKey": "材质与纹理/Materials&Textures",
           "items": [
             {
               "id": "cotton",
@@ -2073,14 +1908,7 @@
               "image": "assets/tiles/satin.webp",
               "sourceImage": "text_to_pic_files/640(53)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "materials-textures-2",
-          "titleZh": "材质与纹理",
-          "titleEn": "Materials & Textures",
-          "items": [
+            },
             {
               "id": "chiffon",
               "zh": "雪纺",
@@ -2117,8 +1945,9 @@
         },
         {
           "id": "hanfu-forms",
-          "titleZh": "汉服形制",
-          "titleEn": "Hanfu Forms",
+          "titleZh": "汉服形制 / Hanfu Forms",
+          "titleEn": "汉服形制 / Hanfu Forms",
+          "sourceTitleKey": "汉服形制/HanfuForms",
           "items": [
             {
               "id": "quju-shenyi",
@@ -2151,14 +1980,7 @@
               "image": "assets/tiles/aoqun.webp",
               "sourceImage": "text_to_pic_files/640(55)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hanfu-forms-2",
-          "titleZh": "汉服形制",
-          "titleEn": "Hanfu Forms",
-          "items": [
+            },
             {
               "id": "qixiong-ruqun",
               "zh": "齐胸襦裙",
@@ -2195,8 +2017,9 @@
         },
         {
           "id": "tang-style",
-          "titleZh": "唐风服饰",
-          "titleEn": "Tang Style",
+          "titleZh": "唐风服饰 / Tang Style",
+          "titleEn": "唐风服饰 / Tang Style",
+          "sourceTitleKey": "唐风服饰/TangStyle",
           "items": [
             {
               "id": "tang-qixiong-ruqun",
@@ -2229,14 +2052,7 @@
               "image": "assets/tiles/hezi-skirt.webp",
               "sourceImage": "text_to_pic_files/640(57)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "tang-style-2",
-          "titleZh": "唐风服饰",
-          "titleEn": "Tang Style",
-          "items": [
+            },
             {
               "id": "wide-sleeved-shan",
               "zh": "大袖衫",
@@ -2273,8 +2089,9 @@
         },
         {
           "id": "song-ming-style",
-          "titleZh": "宋明风格",
-          "titleEn": "Song & Ming Style",
+          "titleZh": "宋明风格 / Song & Ming Style",
+          "titleEn": "宋明风格 / Song & Ming Style",
+          "sourceTitleKey": "宋明风格/Song&MingStyle",
           "items": [
             {
               "id": "song-beizi",
@@ -2307,14 +2124,7 @@
               "image": "assets/tiles/mamian-skirt.webp",
               "sourceImage": "text_to_pic_files/640(59)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "song-ming-style-2",
-          "titleZh": "宋明风格",
-          "titleEn": "Song & Ming Style",
-          "items": [
+            },
             {
               "id": "bijia-vest",
               "zh": "比甲",
@@ -2351,8 +2161,9 @@
         },
         {
           "id": "republican-qipao",
-          "titleZh": "民国与旗袍",
-          "titleEn": "Republican & Qipao",
+          "titleZh": "民国与旗袍 / Republican & Qipao",
+          "titleEn": "民国与旗袍 / Republican & Qipao",
+          "sourceTitleKey": "民国与旗袍/Republican&Qipao",
           "items": [
             {
               "id": "qipao",
@@ -2385,14 +2196,7 @@
               "image": "assets/tiles/aoqun-style-qipao.webp",
               "sourceImage": "text_to_pic_files/640(61)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "republican-qipao-2",
-          "titleZh": "民国与旗袍",
-          "titleEn": "Republican & Qipao",
-          "items": [
+            },
             {
               "id": "pankou-knots",
               "zh": "盘扣",
@@ -2429,8 +2233,9 @@
         },
         {
           "id": "east-asian-traditional",
-          "titleZh": "东亚传统",
-          "titleEn": "East Asian Traditional",
+          "titleZh": "东亚传统 / East Asian Traditional",
+          "titleEn": "东亚传统 / East Asian Traditional",
+          "sourceTitleKey": "东亚传统/EastAsianTraditional",
           "items": [
             {
               "id": "kimono",
@@ -2463,14 +2268,7 @@
               "image": "assets/tiles/ao-dai.webp",
               "sourceImage": "text_to_pic_files/640(63)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "east-asian-traditional-2",
-          "titleZh": "东亚传统",
-          "titleEn": "East Asian Traditional",
-          "items": [
+            },
             {
               "id": "deel",
               "zh": "蒙古袍",
@@ -2507,8 +2305,9 @@
         },
         {
           "id": "south-southeast-asian",
-          "titleZh": "南亚与东南亚",
-          "titleEn": "South & Southeast Asian",
+          "titleZh": "南亚与东南亚 / South & Southeast Asian",
+          "titleEn": "南亚与东南亚 / South & Southeast Asian",
+          "sourceTitleKey": "南亚与东南亚/South&SoutheastAsian",
           "items": [
             {
               "id": "sari",
@@ -2541,14 +2340,7 @@
               "image": "assets/tiles/thai-sinh.webp",
               "sourceImage": "text_to_pic_files/640(65)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "south-southeast-asian-2",
-          "titleZh": "南亚与东南亚",
-          "titleEn": "South & Southeast Asian",
-          "items": [
+            },
             {
               "id": "sarong",
               "zh": "纱笼",
@@ -2585,8 +2377,9 @@
         },
         {
           "id": "european-traditional",
-          "titleZh": "欧洲传统",
-          "titleEn": "European Traditional",
+          "titleZh": "欧洲传统 / European Traditional",
+          "titleEn": "欧洲传统 / European Traditional",
+          "sourceTitleKey": "欧洲传统/EuropeanTraditional",
           "items": [
             {
               "id": "dirndl",
@@ -2619,14 +2412,7 @@
               "image": "assets/tiles/dutch-folk-dress.webp",
               "sourceImage": "text_to_pic_files/640(67)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "european-traditional-2",
-          "titleZh": "欧洲传统",
-          "titleEn": "European Traditional",
-          "items": [
+            },
             {
               "id": "embroidered-peasant-blouse",
               "zh": "刺绣农民衫",
@@ -2663,8 +2449,9 @@
         },
         {
           "id": "middle-eastern-african",
-          "titleZh": "中东与非洲",
-          "titleEn": "Middle Eastern & African",
+          "titleZh": "中东与非洲 / Middle Eastern & African",
+          "titleEn": "中东与非洲 / Middle Eastern & African",
+          "sourceTitleKey": "中东与非洲/MiddleEastern&African",
           "items": [
             {
               "id": "kaftan",
@@ -2697,14 +2484,7 @@
               "image": "assets/tiles/kente-wrap.webp",
               "sourceImage": "text_to_pic_files/640(69)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "middle-eastern-african-2",
-          "titleZh": "中东与非洲",
-          "titleEn": "Middle Eastern & African",
-          "items": [
+            },
             {
               "id": "dashiki",
               "zh": "达希基",
@@ -2741,8 +2521,9 @@
         },
         {
           "id": "school-uniforms",
-          "titleZh": "校园制服",
-          "titleEn": "School Uniforms",
+          "titleZh": "校园制服 / School Uniforms",
+          "titleEn": "校园制服 / School Uniforms",
+          "sourceTitleKey": "校园制服/SchoolUniforms",
           "items": [
             {
               "id": "blazer-uniform",
@@ -2775,14 +2556,7 @@
               "image": "assets/tiles/sweater-vest.webp",
               "sourceImage": "text_to_pic_files/640(71)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "school-uniforms-2",
-          "titleZh": "校园制服",
-          "titleEn": "School Uniforms",
-          "items": [
+            },
             {
               "id": "academy-cardigan",
               "zh": "学院开衫",
@@ -2819,8 +2593,9 @@
         },
         {
           "id": "professional-uniforms",
-          "titleZh": "职场制服",
-          "titleEn": "Professional Uniforms",
+          "titleZh": "职场制服 / Professional Uniforms",
+          "titleEn": "职场制服 / Professional Uniforms",
+          "sourceTitleKey": "职场制服/ProfessionalUniforms",
           "items": [
             {
               "id": "business-suit",
@@ -2853,14 +2628,7 @@
               "image": "assets/tiles/vest-uniform.webp",
               "sourceImage": "text_to_pic_files/640(73)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "professional-uniforms-2",
-          "titleZh": "职场制服",
-          "titleEn": "Professional Uniforms",
-          "items": [
+            },
             {
               "id": "medical-scrubs",
               "zh": "医护制服",
@@ -2897,8 +2665,9 @@
         },
         {
           "id": "sportswear",
-          "titleZh": "运动训练",
-          "titleEn": "Sportswear",
+          "titleZh": "运动训练 / Sportswear",
+          "titleEn": "运动训练 / Sportswear",
+          "sourceTitleKey": "运动训练/Sportswear",
           "items": [
             {
               "id": "tracksuit",
@@ -2931,14 +2700,7 @@
               "image": "assets/tiles/running-jacket.webp",
               "sourceImage": "text_to_pic_files/640(75)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "sportswear-2",
-          "titleZh": "运动训练",
-          "titleEn": "Sportswear",
-          "items": [
+            },
             {
               "id": "cycling-kit",
               "zh": "骑行服",
@@ -2975,8 +2737,9 @@
         },
         {
           "id": "outdoor-utility",
-          "titleZh": "户外机能",
-          "titleEn": "Outdoor Utility",
+          "titleZh": "户外机能 / Outdoor Utility",
+          "titleEn": "户外机能 / Outdoor Utility",
+          "sourceTitleKey": "户外机能/OutdoorUtility",
           "items": [
             {
               "id": "shell-jacket",
@@ -3009,14 +2772,7 @@
               "image": "assets/tiles/thermal-layer.webp",
               "sourceImage": "text_to_pic_files/640(77)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "outdoor-utility-2",
-          "titleZh": "户外机能",
-          "titleEn": "Outdoor Utility",
-          "items": [
+            },
             {
               "id": "utility-vest",
               "zh": "战术马甲",
@@ -3053,8 +2809,9 @@
         },
         {
           "id": "formal-eveningwear",
-          "titleZh": "晚礼服与宴会",
-          "titleEn": "Formal & Eveningwear",
+          "titleZh": "晚礼服与宴会 / Formal & Eveningwear",
+          "titleEn": "晚礼服与宴会 / Formal & Eveningwear",
+          "sourceTitleKey": "晚礼服与宴会/Formal&Eveningwear",
           "items": [
             {
               "id": "evening-gown-2",
@@ -3087,14 +2844,7 @@
               "image": "assets/tiles/formal-suit.webp",
               "sourceImage": "text_to_pic_files/640(79)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "formal-eveningwear-2",
-          "titleZh": "晚礼服与宴会",
-          "titleEn": "Formal & Eveningwear",
-          "items": [
+            },
             {
               "id": "shawl-gown",
               "zh": "披肩礼服",
@@ -3131,8 +2881,9 @@
         },
         {
           "id": "performance-costumes",
-          "titleZh": "表演舞台",
-          "titleEn": "Performance Costumes",
+          "titleZh": "表演舞台 / Performance Costumes",
+          "titleEn": "表演舞台 / Performance Costumes",
+          "sourceTitleKey": "表演舞台/PerformanceCostumes",
           "items": [
             {
               "id": "ballet-costume",
@@ -3165,14 +2916,7 @@
               "image": "assets/tiles/ringmaster-coat.webp",
               "sourceImage": "text_to_pic_files/640(81)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "performance-costumes-2",
-          "titleZh": "表演舞台",
-          "titleEn": "Performance Costumes",
-          "items": [
+            },
             {
               "id": "opera-costume",
               "zh": "歌剧服饰",
@@ -3209,8 +2953,9 @@
         },
         {
           "id": "modern-style-genres",
-          "titleZh": "现代风格流派",
-          "titleEn": "Modern Style Genres",
+          "titleZh": "现代风格流派 / Modern Style Genres",
+          "titleEn": "现代风格流派 / Modern Style Genres",
+          "sourceTitleKey": "现代风格流派/ModernStyleGenres",
           "items": [
             {
               "id": "minimalist",
@@ -3243,14 +2988,7 @@
               "image": "assets/tiles/cyberpunk.webp",
               "sourceImage": "text_to_pic_files/640(83)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "modern-style-genres-2",
-          "titleZh": "现代风格流派",
-          "titleEn": "Modern Style Genres",
-          "items": [
+            },
             {
               "id": "gothic",
               "zh": "哥特风",
@@ -3287,8 +3025,9 @@
         },
         {
           "id": "fantasy-archetypes",
-          "titleZh": "幻想设定",
-          "titleEn": "Fantasy Archetypes",
+          "titleZh": "幻想设定 / Fantasy Archetypes",
+          "titleEn": "幻想设定 / Fantasy Archetypes",
+          "sourceTitleKey": "幻想设定/FantasyArchetypes",
           "items": [
             {
               "id": "mage-robe",
@@ -3321,14 +3060,7 @@
               "image": "assets/tiles/steampunk-explorer.webp",
               "sourceImage": "text_to_pic_files/640(85)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "fantasy-archetypes-2",
-          "titleZh": "幻想设定",
-          "titleEn": "Fantasy Archetypes",
-          "items": [
+            },
             {
               "id": "pirate-captain-outfit",
               "zh": "海盗船长装",
@@ -3373,8 +3105,9 @@
       "subcategories": [
         {
           "id": "positive-basics",
-          "titleZh": "正向基础情绪",
-          "titleEn": "Positive Basics",
+          "titleZh": "正向基础情绪 / Positive Basics",
+          "titleEn": "正向基础情绪 / Positive Basics",
+          "sourceTitleKey": "正向基础情绪/PositiveBasics",
           "items": [
             {
               "id": "calm",
@@ -3407,14 +3140,7 @@
               "image": "assets/tiles/gentle.webp",
               "sourceImage": "text_to_pic_files/640(87)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "positive-basics-2",
-          "titleZh": "正向基础情绪",
-          "titleEn": "Positive Basics",
-          "items": [
+            },
             {
               "id": "expectant",
               "zh": "期待",
@@ -3451,8 +3177,9 @@
         },
         {
           "id": "negative-basics",
-          "titleZh": "负向基础情绪",
-          "titleEn": "Negative Basics",
+          "titleZh": "负向基础情绪 / Negative Basics",
+          "titleEn": "负向基础情绪 / Negative Basics",
+          "sourceTitleKey": "负向基础情绪/NegativeBasics",
           "items": [
             {
               "id": "sad",
@@ -3485,14 +3212,7 @@
               "image": "assets/tiles/disgusted.webp",
               "sourceImage": "text_to_pic_files/640(89)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "negative-basics-2",
-          "titleZh": "负向基础情绪",
-          "titleEn": "Negative Basics",
-          "items": [
+            },
             {
               "id": "disappointed",
               "zh": "失望",
@@ -3529,8 +3249,9 @@
         },
         {
           "id": "neutral-subtle",
-          "titleZh": "中性与低强度",
-          "titleEn": "Neutral & Subtle",
+          "titleZh": "中性与低强度 / Neutral & Subtle",
+          "titleEn": "中性与低强度 / Neutral & Subtle",
+          "sourceTitleKey": "中性与低强度/Neutral&Subtle",
           "items": [
             {
               "id": "expressionless",
@@ -3563,14 +3284,7 @@
               "image": "assets/tiles/composed.webp",
               "sourceImage": "text_to_pic_files/640(91)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "neutral-subtle-2",
-          "titleZh": "中性与低强度",
-          "titleEn": "Neutral & Subtle",
-          "items": [
+            },
             {
               "id": "blank-stare",
               "zh": "呆住",
@@ -3607,8 +3321,9 @@
         },
         {
           "id": "smile-types",
-          "titleZh": "笑容类型",
-          "titleEn": "Smile Types",
+          "titleZh": "笑容类型 / Smile Types",
+          "titleEn": "笑容类型 / Smile Types",
+          "sourceTitleKey": "笑容类型/SmileTypes",
           "items": [
             {
               "id": "smile",
@@ -3641,14 +3356,7 @@
               "image": "assets/tiles/sweet-smile.webp",
               "sourceImage": "text_to_pic_files/640(93)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "smile-types-2",
-          "titleZh": "笑容类型",
-          "titleEn": "Smile Types",
-          "items": [
+            },
             {
               "id": "soft-smile",
               "zh": "浅笑",
@@ -3685,8 +3393,9 @@
         },
         {
           "id": "joy-intensity",
-          "titleZh": "开心程度",
-          "titleEn": "Joy Intensity",
+          "titleZh": "开心程度 / Joy Intensity",
+          "titleEn": "开心程度 / Joy Intensity",
+          "sourceTitleKey": "开心程度/JoyIntensity",
           "items": [
             {
               "id": "cheerful",
@@ -3719,14 +3428,7 @@
               "image": "assets/tiles/ecstatic.webp",
               "sourceImage": "text_to_pic_files/640(95)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "joy-intensity-2",
-          "titleZh": "开心程度",
-          "titleEn": "Joy Intensity",
-          "items": [
+            },
             {
               "id": "holding-back-laughter",
               "zh": "忍笑",
@@ -3763,8 +3465,9 @@
         },
         {
           "id": "playful-smiles",
-          "titleZh": "俏皮笑容",
-          "titleEn": "Playful Smiles",
+          "titleZh": "俏皮笑容 / Playful Smiles",
+          "titleEn": "俏皮笑容 / Playful Smiles",
+          "sourceTitleKey": "俏皮笑容/PlayfulSmiles",
           "items": [
             {
               "id": "mischievous-grin",
@@ -3797,14 +3500,7 @@
               "image": "assets/tiles/sly-smile.webp",
               "sourceImage": "text_to_pic_files/640(97)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "playful-smiles-2",
-          "titleZh": "俏皮笑容",
-          "titleEn": "Playful Smiles",
-          "items": [
+            },
             {
               "id": "wink-smile",
               "zh": "眨眼笑",
@@ -3841,8 +3537,9 @@
         },
         {
           "id": "sadness-levels",
-          "titleZh": "悲伤层级",
-          "titleEn": "Sadness Levels",
+          "titleZh": "悲伤层级 / Sadness Levels",
+          "titleEn": "悲伤层级 / Sadness Levels",
+          "sourceTitleKey": "悲伤层级/SadnessLevels",
           "items": [
             {
               "id": "downcast",
@@ -3875,14 +3572,7 @@
               "image": "assets/tiles/heartbroken.webp",
               "sourceImage": "text_to_pic_files/640(99)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "sadness-levels-2",
-          "titleZh": "悲伤层级",
-          "titleEn": "Sadness Levels",
-          "items": [
+            },
             {
               "id": "despairing",
               "zh": "绝望",
@@ -3919,8 +3609,9 @@
         },
         {
           "id": "crying-types",
-          "titleZh": "哭泣类型",
-          "titleEn": "Crying Types",
+          "titleZh": "哭泣类型 / Crying Types",
+          "titleEn": "哭泣类型 / Crying Types",
+          "sourceTitleKey": "哭泣类型/CryingTypes",
           "items": [
             {
               "id": "tearful",
@@ -3953,14 +3644,7 @@
               "image": "assets/tiles/silent-tears.webp",
               "sourceImage": "text_to_pic_files/640(101)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "crying-types-2",
-          "titleZh": "哭泣类型",
-          "titleEn": "Crying Types",
-          "items": [
+            },
             {
               "id": "sobbing",
               "zh": "嚎哭",
@@ -3997,8 +3681,9 @@
         },
         {
           "id": "vulnerable-emotions",
-          "titleZh": "委屈与脆弱",
-          "titleEn": "Vulnerable Emotions",
+          "titleZh": "委屈与脆弱 / Vulnerable Emotions",
+          "titleEn": "委屈与脆弱 / Vulnerable Emotions",
+          "sourceTitleKey": "委屈与脆弱/VulnerableEmotions",
           "items": [
             {
               "id": "wronged",
@@ -4031,14 +3716,7 @@
               "image": "assets/tiles/seeking-comfort.webp",
               "sourceImage": "text_to_pic_files/640(103)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "vulnerable-emotions-2",
-          "titleZh": "委屈与脆弱",
-          "titleEn": "Vulnerable Emotions",
-          "items": [
+            },
             {
               "id": "enduring",
               "zh": "忍耐",
@@ -4075,8 +3753,9 @@
         },
         {
           "id": "anger-levels",
-          "titleZh": "愤怒层级",
-          "titleEn": "Anger Levels",
+          "titleZh": "愤怒层级 / Anger Levels",
+          "titleEn": "愤怒层级 / Anger Levels",
+          "sourceTitleKey": "愤怒层级/AngerLevels",
           "items": [
             {
               "id": "annoyed",
@@ -4109,14 +3788,7 @@
               "image": "assets/tiles/glare.webp",
               "sourceImage": "text_to_pic_files/640(105)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "anger-levels-2",
-          "titleZh": "愤怒层级",
-          "titleEn": "Anger Levels",
-          "items": [
+            },
             {
               "id": "gritted-teeth",
               "zh": "咬牙",
@@ -4153,8 +3825,9 @@
         },
         {
           "id": "disgust",
-          "titleZh": "厌恶与嫌弃",
-          "titleEn": "Disgust",
+          "titleZh": "厌恶与嫌弃 / Disgust",
+          "titleEn": "厌恶与嫌弃 / Disgust",
+          "sourceTitleKey": "厌恶与嫌弃/Disgust",
           "items": [
             {
               "id": "disdainful",
@@ -4187,14 +3860,7 @@
               "image": "assets/tiles/eye-roll.webp",
               "sourceImage": "text_to_pic_files/640(107)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "disgust-2",
-          "titleZh": "厌恶与嫌弃",
-          "titleEn": "Disgust",
-          "items": [
+            },
             {
               "id": "impatient",
               "zh": "不耐烦",
@@ -4231,8 +3897,9 @@
         },
         {
           "id": "contempt-hostility",
-          "titleZh": "轻蔑与敌意",
-          "titleEn": "Contempt & Hostility",
+          "titleZh": "轻蔑与敌意 / Contempt & Hostility",
+          "titleEn": "轻蔑与敌意 / Contempt & Hostility",
+          "sourceTitleKey": "轻蔑与敌意/Contempt&Hostility",
           "items": [
             {
               "id": "sneer",
@@ -4265,14 +3932,7 @@
               "image": "assets/tiles/provocative.webp",
               "sourceImage": "text_to_pic_files/640(109)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "contempt-hostility-2",
-          "titleZh": "轻蔑与敌意",
-          "titleEn": "Contempt & Hostility",
-          "items": [
+            },
             {
               "id": "suspicious",
               "zh": "怀疑",
@@ -4309,8 +3969,9 @@
         },
         {
           "id": "surprise-types",
-          "titleZh": "惊讶类型",
-          "titleEn": "Surprise Types",
+          "titleZh": "惊讶类型 / Surprise Types",
+          "titleEn": "惊讶类型 / Surprise Types",
+          "sourceTitleKey": "惊讶类型/SurpriseTypes",
           "items": [
             {
               "id": "surprised",
@@ -4343,14 +4004,7 @@
               "image": "assets/tiles/pleasantly-surprised.webp",
               "sourceImage": "text_to_pic_files/640(111)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "surprise-types-2",
-          "titleZh": "惊讶类型",
-          "titleEn": "Surprise Types",
-          "items": [
+            },
             {
               "id": "frozen",
               "zh": "愣住",
@@ -4387,8 +4041,9 @@
         },
         {
           "id": "fear-levels",
-          "titleZh": "恐惧层级",
-          "titleEn": "Fear Levels",
+          "titleZh": "恐惧层级 / Fear Levels",
+          "titleEn": "恐惧层级 / Fear Levels",
+          "sourceTitleKey": "恐惧层级/FearLevels",
           "items": [
             {
               "id": "scared",
@@ -4426,8 +4081,9 @@
         },
         {
           "id": "nervous-tension",
-          "titleZh": "紧张与压力",
-          "titleEn": "Nervous Tension",
+          "titleZh": "紧张与压力 / Nervous Tension",
+          "titleEn": "紧张与压力 / Nervous Tension",
+          "sourceTitleKey": "紧张与压力/NervousTension",
           "items": [
             {
               "id": "nervous",
@@ -4460,14 +4116,7 @@
               "image": "assets/tiles/biting-lip.webp",
               "sourceImage": "text_to_pic_files/640(114)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "nervous-tension-2",
-          "titleZh": "紧张与压力",
-          "titleEn": "Nervous Tension",
-          "items": [
+            },
             {
               "id": "stiff-awkward-smile",
               "zh": "尴尬僵笑",
@@ -4504,8 +4153,9 @@
         },
         {
           "id": "shyness-blush",
-          "titleZh": "羞涩与脸红",
-          "titleEn": "Shyness & Blush",
+          "titleZh": "羞涩与脸红 / Shyness & Blush",
+          "titleEn": "羞涩与脸红 / Shyness & Blush",
+          "sourceTitleKey": "羞涩与脸红/Shyness&Blush",
           "items": [
             {
               "id": "shy",
@@ -4538,14 +4188,7 @@
               "image": "assets/tiles/averted-gaze.webp",
               "sourceImage": "text_to_pic_files/640(116)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "shyness-blush-2",
-          "titleZh": "羞涩与脸红",
-          "titleEn": "Shyness & Blush",
-          "items": [
+            },
             {
               "id": "bashful",
               "zh": "羞怯",
@@ -4582,8 +4225,9 @@
         },
         {
           "id": "social-reactions",
-          "titleZh": "社交反应",
-          "titleEn": "Social Reactions",
+          "titleZh": "社交反应 / Social Reactions",
+          "titleEn": "社交反应 / Social Reactions",
+          "sourceTitleKey": "社交反应/SocialReactions",
           "items": [
             {
               "id": "embarrassed",
@@ -4616,14 +4260,7 @@
               "image": "assets/tiles/curious-onlooker.webp",
               "sourceImage": "text_to_pic_files/640(118)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "social-reactions-2",
-          "titleZh": "社交反应",
-          "titleEn": "Social Reactions",
-          "items": [
+            },
             {
               "id": "confused-smile",
               "zh": "困惑微笑",
@@ -4660,8 +4297,9 @@
         },
         {
           "id": "personality-expressions",
-          "titleZh": "性格感表情",
-          "titleEn": "Personality Expressions",
+          "titleZh": "性格感表情 / Personality Expressions",
+          "titleEn": "性格感表情 / Personality Expressions",
+          "sourceTitleKey": "性格感表情/PersonalityExpressions",
           "items": [
             {
               "id": "confident",
@@ -4694,14 +4332,7 @@
               "image": "assets/tiles/stubborn.webp",
               "sourceImage": "text_to_pic_files/640(120)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "personality-expressions-2",
-          "titleZh": "性格感表情",
-          "titleEn": "Personality Expressions",
-          "items": [
+            },
             {
               "id": "tender",
               "zh": "温柔",
@@ -4738,8 +4369,9 @@
         },
         {
           "id": "gaze-direction",
-          "titleZh": "眼神方向",
-          "titleEn": "Gaze Direction",
+          "titleZh": "眼神方向 / Gaze Direction",
+          "titleEn": "眼神方向 / Gaze Direction",
+          "sourceTitleKey": "眼神方向/GazeDirection",
           "items": [
             {
               "id": "direct-gaze",
@@ -4772,14 +4404,7 @@
               "image": "assets/tiles/looking-down.webp",
               "sourceImage": "text_to_pic_files/640(122)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "gaze-direction-2",
-          "titleZh": "眼神方向",
-          "titleEn": "Gaze Direction",
-          "items": [
+            },
             {
               "id": "looking-back",
               "zh": "回眸",
@@ -4816,8 +4441,9 @@
         },
         {
           "id": "eye-expressions",
-          "titleZh": "眼部状态",
-          "titleEn": "Eye Expressions",
+          "titleZh": "眼部状态 / Eye Expressions",
+          "titleEn": "眼部状态 / Eye Expressions",
+          "sourceTitleKey": "眼部状态/EyeExpressions",
           "items": [
             {
               "id": "narrowed-eyes",
@@ -4850,14 +4476,7 @@
               "image": "assets/tiles/tearful-eyes.webp",
               "sourceImage": "text_to_pic_files/640(124)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "eye-expressions-2",
-          "titleZh": "眼部状态",
-          "titleEn": "Eye Expressions",
-          "items": [
+            },
             {
               "id": "sparkling-eyes",
               "zh": "星星眼",
@@ -4894,8 +4513,9 @@
         },
         {
           "id": "brow-expressions",
-          "titleZh": "眉毛动作",
-          "titleEn": "Brow Expressions",
+          "titleZh": "眉毛动作 / Brow Expressions",
+          "titleEn": "眉毛动作 / Brow Expressions",
+          "sourceTitleKey": "眉毛动作/BrowExpressions",
           "items": [
             {
               "id": "furrowed-brows",
@@ -4928,14 +4548,7 @@
               "image": "assets/tiles/knitted-brows.webp",
               "sourceImage": "text_to_pic_files/640(126)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "brow-expressions-2",
-          "titleZh": "眉毛动作",
-          "titleEn": "Brow Expressions",
-          "items": [
+            },
             {
               "id": "crescent-eyes",
               "zh": "眉眼弯弯",
@@ -4972,8 +4585,9 @@
         },
         {
           "id": "mixed-emotions",
-          "titleZh": "复杂情绪",
-          "titleEn": "Mixed Emotions",
+          "titleZh": "复杂情绪 / Mixed Emotions",
+          "titleEn": "复杂情绪 / Mixed Emotions",
+          "sourceTitleKey": "复杂情绪/MixedEmotions",
           "items": [
             {
               "id": "wry-smile",
@@ -5006,14 +4620,7 @@
               "image": "assets/tiles/shocked-and-delighted.webp",
               "sourceImage": "text_to_pic_files/640(128)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "mixed-emotions-2",
-          "titleZh": "复杂情绪",
-          "titleEn": "Mixed Emotions",
-          "items": [
+            },
             {
               "id": "bittersweet",
               "zh": "悲喜交加",
@@ -5050,8 +4657,9 @@
         },
         {
           "id": "character-archetype-expressions",
-          "titleZh": "角色化表情",
-          "titleEn": "Character Archetype Expressions",
+          "titleZh": "角色化表情 / Character Archetype Expressions",
+          "titleEn": "角色化表情 / Character Archetype Expressions",
+          "sourceTitleKey": "角色化表情/CharacterArchetypeExpressions",
           "items": [
             {
               "id": "villain-smile",
@@ -5084,14 +4692,7 @@
               "image": "assets/tiles/airheaded.webp",
               "sourceImage": "text_to_pic_files/640(130)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "character-archetype-expressions-2",
-          "titleZh": "角色化表情",
-          "titleEn": "Character Archetype Expressions",
-          "items": [
+            },
             {
               "id": "yandere-like",
               "zh": "病娇感",
@@ -5128,8 +4729,9 @@
         },
         {
           "id": "stylized-exaggeration",
-          "titleZh": "风格化夸张",
-          "titleEn": "Stylized Exaggeration",
+          "titleZh": "风格化夸张 / Stylized Exaggeration",
+          "titleEn": "风格化夸张 / Stylized Exaggeration",
+          "sourceTitleKey": "风格化夸张/StylizedExaggeration",
           "items": [
             {
               "id": "exaggerated-shock",
@@ -5162,14 +4764,7 @@
               "image": "assets/tiles/soul-leaving-body.webp",
               "sourceImage": "text_to_pic_files/640(132)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "stylized-exaggeration-2",
-          "titleZh": "风格化夸张",
-          "titleEn": "Stylized Exaggeration",
-          "items": [
+            },
             {
               "id": "petrified",
               "zh": "石化",
@@ -5214,8 +4809,9 @@
       "subcategories": [
         {
           "id": "standing-poses",
-          "titleZh": "站姿",
-          "titleEn": "Standing Poses",
+          "titleZh": "站姿 / Standing Poses",
+          "titleEn": "站姿 / Standing Poses",
+          "sourceTitleKey": "站姿/StandingPoses",
           "items": [
             {
               "id": "standing-straight",
@@ -5248,14 +4844,7 @@
               "image": "assets/tiles/cross-legged-standing.webp",
               "sourceImage": "text_to_pic_files/640(134)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "standing-poses-2",
-          "titleZh": "站姿",
-          "titleEn": "Standing Poses",
-          "items": [
+            },
             {
               "id": "feet-apart-standing",
               "zh": "双脚分开站",
@@ -5292,8 +4881,9 @@
         },
         {
           "id": "sitting-poses",
-          "titleZh": "坐姿",
-          "titleEn": "Sitting Poses",
+          "titleZh": "坐姿 / Sitting Poses",
+          "titleEn": "坐姿 / Sitting Poses",
+          "sourceTitleKey": "坐姿/SittingPoses",
           "items": [
             {
               "id": "upright-sitting",
@@ -5326,14 +4916,7 @@
               "image": "assets/tiles/legs-crossed-sitting.webp",
               "sourceImage": "text_to_pic_files/640(136)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "sitting-poses-2",
-          "titleZh": "坐姿",
-          "titleEn": "Sitting Poses",
-          "items": [
+            },
             {
               "id": "hugging-knees",
               "zh": "抱膝坐",
@@ -5370,8 +4953,9 @@
         },
         {
           "id": "crouching-kneeling",
-          "titleZh": "蹲跪姿",
-          "titleEn": "Crouching & Kneeling",
+          "titleZh": "蹲跪姿 / Crouching & Kneeling",
+          "titleEn": "蹲跪姿 / Crouching & Kneeling",
+          "sourceTitleKey": "蹲跪姿/Crouching&Kneeling",
           "items": [
             {
               "id": "crouching",
@@ -5404,14 +4988,7 @@
               "image": "assets/tiles/kneeling.webp",
               "sourceImage": "text_to_pic_files/640(138)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "crouching-kneeling-2",
-          "titleZh": "蹲跪姿",
-          "titleEn": "Crouching & Kneeling",
-          "items": [
+            },
             {
               "id": "seiza-sitting",
               "zh": "跪坐",
@@ -5448,8 +5025,9 @@
         },
         {
           "id": "head-positions",
-          "titleZh": "头部姿态",
-          "titleEn": "Head Positions",
+          "titleZh": "头部姿态 / Head Positions",
+          "titleEn": "头部姿态 / Head Positions",
+          "sourceTitleKey": "头部姿态/HeadPositions",
           "items": [
             {
               "id": "head-down",
@@ -5482,14 +5060,7 @@
               "image": "assets/tiles/looking-back-2.webp",
               "sourceImage": "text_to_pic_files/640(140)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "head-positions-2",
-          "titleZh": "头部姿态",
-          "titleEn": "Head Positions",
-          "items": [
+            },
             {
               "id": "nodding",
               "zh": "点头",
@@ -5526,8 +5097,9 @@
         },
         {
           "id": "shoulder-neck",
-          "titleZh": "肩颈姿态",
-          "titleEn": "Shoulder & Neck",
+          "titleZh": "肩颈姿态 / Shoulder & Neck",
+          "titleEn": "肩颈姿态 / Shoulder & Neck",
+          "sourceTitleKey": "肩颈姿态/Shoulder&Neck",
           "items": [
             {
               "id": "shrugging",
@@ -5560,14 +5132,7 @@
               "image": "assets/tiles/squared-shoulders.webp",
               "sourceImage": "text_to_pic_files/640(142)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "shoulder-neck-2",
-          "titleZh": "肩颈姿态",
-          "titleEn": "Shoulder & Neck",
-          "items": [
+            },
             {
               "id": "dropped-shoulders",
               "zh": "肩膀下垂",
@@ -5604,8 +5169,9 @@
         },
         {
           "id": "torso-attitudes",
-          "titleZh": "躯干姿态",
-          "titleEn": "Torso Attitudes",
+          "titleZh": "躯干姿态 / Torso Attitudes",
+          "titleEn": "躯干姿态 / Torso Attitudes",
+          "sourceTitleKey": "躯干姿态/TorsoAttitudes",
           "items": [
             {
               "id": "leaning-forward",
@@ -5638,14 +5204,7 @@
               "image": "assets/tiles/chest-out.webp",
               "sourceImage": "text_to_pic_files/640(144)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "torso-attitudes-2",
-          "titleZh": "躯干姿态",
-          "titleEn": "Torso Attitudes",
-          "items": [
+            },
             {
               "id": "bending-over",
               "zh": "弯腰",
@@ -5682,8 +5241,9 @@
         },
         {
           "id": "arm-positions",
-          "titleZh": "手臂位置",
-          "titleEn": "Arm Positions",
+          "titleZh": "手臂位置 / Arm Positions",
+          "titleEn": "手臂位置 / Arm Positions",
+          "sourceTitleKey": "手臂位置/ArmPositions",
           "items": [
             {
               "id": "crossed-arms",
@@ -5716,14 +5276,7 @@
               "image": "assets/tiles/arms-down.webp",
               "sourceImage": "text_to_pic_files/640(146)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "arm-positions-2",
-          "titleZh": "手臂位置",
-          "titleEn": "Arm Positions",
-          "items": [
+            },
             {
               "id": "one-hand-in-pocket",
               "zh": "单手插兜",
@@ -5760,8 +5313,9 @@
         },
         {
           "id": "pointing-indicating",
-          "titleZh": "手部指向",
-          "titleEn": "Pointing & Indicating",
+          "titleZh": "手部指向 / Pointing & Indicating",
+          "titleEn": "手部指向 / Pointing & Indicating",
+          "sourceTitleKey": "手部指向/Pointing&Indicating",
           "items": [
             {
               "id": "pointing-forward",
@@ -5794,14 +5348,7 @@
               "image": "assets/tiles/beckoning.webp",
               "sourceImage": "text_to_pic_files/640(148)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "pointing-indicating-2",
-          "titleZh": "手部指向",
-          "titleEn": "Pointing & Indicating",
-          "items": [
+            },
             {
               "id": "gesturing-explanation",
               "zh": "比划解释",
@@ -5838,8 +5385,9 @@
         },
         {
           "id": "defensive-open-gestures",
-          "titleZh": "防御与开放",
-          "titleEn": "Defensive & Open Gestures",
+          "titleZh": "防御与开放 / Defensive & Open Gestures",
+          "titleEn": "防御与开放 / Defensive & Open Gestures",
+          "sourceTitleKey": "防御与开放/Defensive&OpenGestures",
           "items": [
             {
               "id": "guarding-chest",
@@ -5872,14 +5420,7 @@
               "image": "assets/tiles/refusing-gesture.webp",
               "sourceImage": "text_to_pic_files/640(150)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "defensive-open-gestures-2",
-          "titleZh": "防御与开放",
-          "titleEn": "Defensive & Open Gestures",
-          "items": [
+            },
             {
               "id": "waving-off",
               "zh": "后退摆手",
@@ -5916,8 +5457,9 @@
         },
         {
           "id": "finger-gestures",
-          "titleZh": "手指动作",
-          "titleEn": "Finger Gestures",
+          "titleZh": "手指动作 / Finger Gestures",
+          "titleEn": "手指动作 / Finger Gestures",
+          "sourceTitleKey": "手指动作/FingerGestures",
           "items": [
             {
               "id": "finger-heart",
@@ -5950,14 +5492,7 @@
               "image": "assets/tiles/thumbs-up.webp",
               "sourceImage": "text_to_pic_files/640(152)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "finger-gestures-2",
-          "titleZh": "手指动作",
-          "titleEn": "Finger Gestures",
-          "items": [
+            },
             {
               "id": "counting-one",
               "zh": "数一",
@@ -5994,8 +5529,9 @@
         },
         {
           "id": "hands-touching-body",
-          "titleZh": "接触身体",
-          "titleEn": "Hands Touching Body",
+          "titleZh": "接触身体 / Hands Touching Body",
+          "titleEn": "接触身体 / Hands Touching Body",
+          "sourceTitleKey": "接触身体/HandsTouchingBody",
           "items": [
             {
               "id": "chin-in-hand",
@@ -6028,14 +5564,7 @@
               "image": "assets/tiles/covering-mouth.webp",
               "sourceImage": "text_to_pic_files/640(154)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hands-touching-body-2",
-          "titleZh": "接触身体",
-          "titleEn": "Hands Touching Body",
-          "items": [
+            },
             {
               "id": "hand-on-cheek",
               "zh": "扶脸",
@@ -6072,8 +5601,9 @@
         },
         {
           "id": "small-gestures",
-          "titleZh": "小动作",
-          "titleEn": "Small Gestures",
+          "titleZh": "小动作 / Small Gestures",
+          "titleEn": "小动作 / Small Gestures",
+          "sourceTitleKey": "小动作/SmallGestures",
           "items": [
             {
               "id": "adjusting-collar",
@@ -6106,14 +5636,7 @@
               "image": "assets/tiles/rubbing-hands.webp",
               "sourceImage": "text_to_pic_files/640(156)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "small-gestures-2",
-          "titleZh": "小动作",
-          "titleEn": "Small Gestures",
-          "items": [
+            },
             {
               "id": "adjusting-glasses",
               "zh": "扶眼镜",
@@ -6150,8 +5673,9 @@
         },
         {
           "id": "walking",
-          "titleZh": "行走",
-          "titleEn": "Walking",
+          "titleZh": "行走 / Walking",
+          "titleEn": "行走 / Walking",
+          "sourceTitleKey": "行走/Walking",
           "items": [
             {
               "id": "walking",
@@ -6184,14 +5708,7 @@
               "image": "assets/tiles/brisk-walking.webp",
               "sourceImage": "text_to_pic_files/640(158)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "walking-2",
-          "titleZh": "行走",
-          "titleEn": "Walking",
-          "items": [
+            },
             {
               "id": "slow-walk",
               "zh": "慢步",
@@ -6228,8 +5745,9 @@
         },
         {
           "id": "running-jumping",
-          "titleZh": "跑跳",
-          "titleEn": "Running & Jumping",
+          "titleZh": "跑跳 / Running & Jumping",
+          "titleEn": "跑跳 / Running & Jumping",
+          "sourceTitleKey": "跑跳/Running&Jumping",
           "items": [
             {
               "id": "running",
@@ -6262,14 +5780,7 @@
               "image": "assets/tiles/jumping.webp",
               "sourceImage": "text_to_pic_files/640(160)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "running-jumping-2",
-          "titleZh": "跑跳",
-          "titleEn": "Running & Jumping",
-          "items": [
+            },
             {
               "id": "landing",
               "zh": "落地",
@@ -6306,8 +5817,9 @@
         },
         {
           "id": "turning-balance",
-          "titleZh": "转身与平衡",
-          "titleEn": "Turning & Balance",
+          "titleZh": "转身与平衡 / Turning & Balance",
+          "titleEn": "转身与平衡 / Turning & Balance",
+          "sourceTitleKey": "转身与平衡/Turning&Balance",
           "items": [
             {
               "id": "turning-around",
@@ -6340,14 +5852,7 @@
               "image": "assets/tiles/standing-on-tiptoe.webp",
               "sourceImage": "text_to_pic_files/640(162)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "turning-balance-2",
-          "titleZh": "转身与平衡",
-          "titleEn": "Turning & Balance",
-          "items": [
+            },
             {
               "id": "standing-on-one-foot",
               "zh": "单脚站立",
@@ -6384,8 +5889,9 @@
         },
         {
           "id": "nervous-shy",
-          "titleZh": "紧张与害羞",
-          "titleEn": "Nervous & Shy",
+          "titleZh": "紧张与害羞 / Nervous & Shy",
+          "titleEn": "紧张与害羞 / Nervous & Shy",
+          "sourceTitleKey": "紧张与害羞/Nervous&Shy",
           "items": [
             {
               "id": "awkward-standing",
@@ -6423,8 +5929,9 @@
         },
         {
           "id": "confident-assertive",
-          "titleZh": "自信与强势",
-          "titleEn": "Confident & Assertive",
+          "titleZh": "自信与强势 / Confident & Assertive",
+          "titleEn": "自信与强势 / Confident & Assertive",
+          "sourceTitleKey": "自信与强势/Confident&Assertive",
           "items": [
             {
               "id": "confident-stance",
@@ -6457,14 +5964,7 @@
               "image": "assets/tiles/head-held-high.webp",
               "sourceImage": "text_to_pic_files/640(165)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "confident-assertive-2",
-          "titleZh": "自信与强势",
-          "titleEn": "Confident & Assertive",
-          "items": [
+            },
             {
               "id": "assertive-pointing",
               "zh": "单手指向",
@@ -6501,8 +6001,9 @@
         },
         {
           "id": "tired-defeated",
-          "titleZh": "疲惫与失落",
-          "titleEn": "Tired & Defeated",
+          "titleZh": "疲惫与失落 / Tired & Defeated",
+          "titleEn": "疲惫与失落 / Tired & Defeated",
+          "sourceTitleKey": "疲惫与失落/Tired&Defeated",
           "items": [
             {
               "id": "slumped-shoulders",
@@ -6535,14 +6036,7 @@
               "image": "assets/tiles/standing-head-down.webp",
               "sourceImage": "text_to_pic_files/640(167)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "tired-defeated-2",
-          "titleZh": "疲惫与失落",
-          "titleEn": "Tired & Defeated",
-          "items": [
+            },
             {
               "id": "tired-lean-on-wall",
               "zh": "扶墙疲惫",
@@ -6579,8 +6073,9 @@
         },
         {
           "id": "conversation-poses",
-          "titleZh": "交流姿态",
-          "titleEn": "Conversation Poses",
+          "titleZh": "交流姿态 / Conversation Poses",
+          "titleEn": "交流姿态 / Conversation Poses",
+          "sourceTitleKey": "交流姿态/ConversationPoses",
           "items": [
             {
               "id": "listening",
@@ -6613,14 +6108,7 @@
               "image": "assets/tiles/handing-something-over.webp",
               "sourceImage": "text_to_pic_files/640(169)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "conversation-poses-2",
-          "titleZh": "交流姿态",
-          "titleEn": "Conversation Poses",
-          "items": [
+            },
             {
               "id": "asking-question",
               "zh": "提问",
@@ -6657,8 +6145,9 @@
         },
         {
           "id": "social-distance",
-          "titleZh": "距离关系",
-          "titleEn": "Social Distance",
+          "titleZh": "距离关系 / Social Distance",
+          "titleEn": "距离关系 / Social Distance",
+          "sourceTitleKey": "距离关系/SocialDistance",
           "items": [
             {
               "id": "moving-closer",
@@ -6691,14 +6180,7 @@
               "image": "assets/tiles/avoiding.webp",
               "sourceImage": "text_to_pic_files/640(171)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "social-distance-2",
-          "titleZh": "距离关系",
-          "titleEn": "Social Distance",
-          "items": [
+            },
             {
               "id": "turning-away",
               "zh": "转身离开",
@@ -6735,8 +6217,9 @@
         },
         {
           "id": "cooperative-actions",
-          "titleZh": "协作互动",
-          "titleEn": "Cooperative Actions",
+          "titleZh": "协作互动 / Cooperative Actions",
+          "titleEn": "协作互动 / Cooperative Actions",
+          "sourceTitleKey": "协作互动/CooperativeActions",
           "items": [
             {
               "id": "handshake",
@@ -6769,14 +6252,7 @@
               "image": "assets/tiles/standing-side-by-side.webp",
               "sourceImage": "text_to_pic_files/640(173)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "cooperative-actions-2",
-          "titleZh": "协作互动",
-          "titleEn": "Cooperative Actions",
-          "items": [
+            },
             {
               "id": "passing-an-object",
               "zh": "递接物品",
@@ -6813,8 +6289,9 @@
         },
         {
           "id": "heroic-poses",
-          "titleZh": "英雄感",
-          "titleEn": "Heroic Poses",
+          "titleZh": "英雄感 / Heroic Poses",
+          "titleEn": "英雄感 / Heroic Poses",
+          "sourceTitleKey": "英雄感/HeroicPoses",
           "items": [
             {
               "id": "heroic-stance",
@@ -6847,14 +6324,7 @@
               "image": "assets/tiles/guardian-pose.webp",
               "sourceImage": "text_to_pic_files/640(175)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "heroic-poses-2",
-          "titleZh": "英雄感",
-          "titleEn": "Heroic Poses",
-          "items": [
+            },
             {
               "id": "backlit-stance",
               "zh": "逆光站立",
@@ -6891,8 +6361,9 @@
         },
         {
           "id": "villain-poses",
-          "titleZh": "反派感",
-          "titleEn": "Villain Poses",
+          "titleZh": "反派感 / Villain Poses",
+          "titleEn": "反派感 / Villain Poses",
+          "sourceTitleKey": "反派感/VillainPoses",
           "items": [
             {
               "id": "looking-down-pose",
@@ -6925,14 +6396,7 @@
               "image": "assets/tiles/dominant-pose.webp",
               "sourceImage": "text_to_pic_files/640(177)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "villain-poses-2",
-          "titleZh": "反派感",
-          "titleEn": "Villain Poses",
-          "items": [
+            },
             {
               "id": "slow-turn",
               "zh": "慢慢转身",
@@ -6968,9 +6432,10 @@
           ]
         },
         {
-          "id": "camera-ready-poses",
-          "titleZh": "镜头感 Pose",
-          "titleEn": "Camera-ready Poses",
+          "id": "pose-camera-ready-poses",
+          "titleZh": "镜头感 Pose / Camera-ready Poses",
+          "titleEn": "镜头感 Pose / Camera-ready Poses",
+          "sourceTitleKey": "镜头感Pose/Camera-readyPoses",
           "items": [
             {
               "id": "over-the-shoulder-pose",
@@ -7003,14 +6468,7 @@
               "image": "assets/tiles/poster-pose.webp",
               "sourceImage": "text_to_pic_files/640(179)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "camera-ready-poses-2",
-          "titleZh": "镜头感 Pose",
-          "titleEn": "Camera-ready Poses",
-          "items": [
+            },
             {
               "id": "diagonal-pose",
               "zh": "对角线构图",
@@ -7055,8 +6513,9 @@
       "subcategories": [
         {
           "id": "close-framing",
-          "titleZh": "极近与近景",
-          "titleEn": "Close Framing",
+          "titleZh": "极近与近景 / Close Framing",
+          "titleEn": "极近与近景 / Close Framing",
+          "sourceTitleKey": "极近与近景/CloseFraming",
           "items": [
             {
               "id": "extreme-close-up",
@@ -7089,14 +6548,7 @@
               "image": "assets/tiles/face-close-up.webp",
               "sourceImage": "text_to_pic_files/640(181)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "close-framing-2",
-          "titleZh": "极近与近景",
-          "titleEn": "Close Framing",
-          "items": [
+            },
             {
               "id": "eye-close-up",
               "zh": "眼部特写",
@@ -7133,8 +6585,9 @@
         },
         {
           "id": "medium-framing",
-          "titleZh": "中景人物",
-          "titleEn": "Medium Framing",
+          "titleZh": "中景人物 / Medium Framing",
+          "titleEn": "中景人物 / Medium Framing",
+          "sourceTitleKey": "中景人物/MediumFraming",
           "items": [
             {
               "id": "medium-close-up",
@@ -7167,14 +6620,7 @@
               "image": "assets/tiles/waist-shot.webp",
               "sourceImage": "text_to_pic_files/640(183)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "medium-framing-2",
-          "titleZh": "中景人物",
-          "titleEn": "Medium Framing",
-          "items": [
+            },
             {
               "id": "bust-shot",
               "zh": "胸像景",
@@ -7211,8 +6657,9 @@
         },
         {
           "id": "full-wide-framing",
-          "titleZh": "全身与远景",
-          "titleEn": "Full & Wide Framing",
+          "titleZh": "全身与远景 / Full & Wide Framing",
+          "titleEn": "全身与远景 / Full & Wide Framing",
+          "sourceTitleKey": "全身与远景/Full&WideFraming",
           "items": [
             {
               "id": "full-shot",
@@ -7245,14 +6692,7 @@
               "image": "assets/tiles/extreme-wide-shot.webp",
               "sourceImage": "text_to_pic_files/640(185)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "full-wide-framing-2",
-          "titleZh": "全身与远景",
-          "titleEn": "Full & Wide Framing",
-          "items": [
+            },
             {
               "id": "environmental-portrait",
               "zh": "环境人像",
@@ -7289,8 +6729,9 @@
         },
         {
           "id": "neutral-camera-height",
-          "titleZh": "平视与自然高度",
-          "titleEn": "Neutral Camera Height",
+          "titleZh": "平视与自然高度 / Neutral Camera Height",
+          "titleEn": "平视与自然高度 / Neutral Camera Height",
+          "sourceTitleKey": "平视与自然高度/NeutralCameraHeight",
           "items": [
             {
               "id": "eye-level-shot",
@@ -7323,14 +6764,7 @@
               "image": "assets/tiles/neutral-angle.webp",
               "sourceImage": "text_to_pic_files/640(187)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "neutral-camera-height-2",
-          "titleZh": "平视与自然高度",
-          "titleEn": "Neutral Camera Height",
-          "items": [
+            },
             {
               "id": "human-eye-view",
               "zh": "人眼视角",
@@ -7367,8 +6801,9 @@
         },
         {
           "id": "high-camera-angles",
-          "titleZh": "俯视镜头",
-          "titleEn": "High Camera Angles",
+          "titleZh": "俯视镜头 / High Camera Angles",
+          "titleEn": "俯视镜头 / High Camera Angles",
+          "sourceTitleKey": "俯视镜头/HighCameraAngles",
           "items": [
             {
               "id": "high-angle",
@@ -7401,14 +6836,7 @@
               "image": "assets/tiles/overhead-shot.webp",
               "sourceImage": "text_to_pic_files/640(189)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "high-camera-angles-2",
-          "titleZh": "俯视镜头",
-          "titleEn": "High Camera Angles",
-          "items": [
+            },
             {
               "id": "slight-high-angle",
               "zh": "轻微俯视",
@@ -7445,8 +6873,9 @@
         },
         {
           "id": "low-camera-angles",
-          "titleZh": "仰视镜头",
-          "titleEn": "Low Camera Angles",
+          "titleZh": "仰视镜头 / Low Camera Angles",
+          "titleEn": "仰视镜头 / Low Camera Angles",
+          "sourceTitleKey": "仰视镜头/LowCameraAngles",
           "items": [
             {
               "id": "low-angle",
@@ -7479,14 +6908,7 @@
               "image": "assets/tiles/heroic-low-angle.webp",
               "sourceImage": "text_to_pic_files/640(191)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "low-camera-angles-2",
-          "titleZh": "仰视镜头",
-          "titleEn": "Low Camera Angles",
-          "items": [
+            },
             {
               "id": "slight-low-angle",
               "zh": "轻微仰视",
@@ -7523,8 +6945,9 @@
         },
         {
           "id": "basic-orientation-views",
-          "titleZh": "正侧背基础视角",
-          "titleEn": "Basic Orientation Views",
+          "titleZh": "正侧背基础视角 / Basic Orientation Views",
+          "titleEn": "正侧背基础视角 / Basic Orientation Views",
+          "sourceTitleKey": "正侧背基础视角/BasicOrientationViews",
           "items": [
             {
               "id": "front-view",
@@ -7557,14 +6980,7 @@
               "image": "assets/tiles/back-view.webp",
               "sourceImage": "text_to_pic_files/640(193)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "basic-orientation-views-2",
-          "titleZh": "正侧背基础视角",
-          "titleEn": "Basic Orientation Views",
-          "items": [
+            },
             {
               "id": "left-side-view",
               "zh": "左侧视角",
@@ -7601,8 +7017,9 @@
         },
         {
           "id": "relational-viewpoints",
-          "titleZh": "关系型视角",
-          "titleEn": "Relational Viewpoints",
+          "titleZh": "关系型视角 / Relational Viewpoints",
+          "titleEn": "关系型视角 / Relational Viewpoints",
+          "sourceTitleKey": "关系型视角/RelationalViewpoints",
           "items": [
             {
               "id": "over-the-shoulder-shot",
@@ -7635,14 +7052,7 @@
               "image": "assets/tiles/two-shot.webp",
               "sourceImage": "text_to_pic_files/640(195)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "relational-viewpoints-2",
-          "titleZh": "关系型视角",
-          "titleEn": "Relational Viewpoints",
-          "items": [
+            },
             {
               "id": "conversation-angle",
               "zh": "对话视角",
@@ -7679,8 +7089,9 @@
         },
         {
           "id": "special-observational-views",
-          "titleZh": "特殊观察视角",
-          "titleEn": "Special Observational Views",
+          "titleZh": "特殊观察视角 / Special Observational Views",
+          "titleEn": "特殊观察视角 / Special Observational Views",
+          "sourceTitleKey": "特殊观察视角/SpecialObservationalViews",
           "items": [
             {
               "id": "mirror-view",
@@ -7713,14 +7124,7 @@
               "image": "assets/tiles/hidden-observer-shot.webp",
               "sourceImage": "text_to_pic_files/640(197)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "special-observational-views-2",
-          "titleZh": "特殊观察视角",
-          "titleEn": "Special Observational Views",
-          "items": [
+            },
             {
               "id": "through-doorway-view",
               "zh": "门缝视角",
@@ -7757,8 +7161,9 @@
         },
         {
           "id": "standard-portrait-lenses",
-          "titleZh": "标准人像焦段",
-          "titleEn": "Standard Portrait Lenses",
+          "titleZh": "标准人像焦段 / Standard Portrait Lenses",
+          "titleEn": "标准人像焦段 / Standard Portrait Lenses",
+          "sourceTitleKey": "标准人像焦段/StandardPortraitLenses",
           "items": [
             {
               "id": "35mm-lens",
@@ -7791,14 +7196,7 @@
               "image": "assets/tiles/100mm-lens.webp",
               "sourceImage": "text_to_pic_files/640(199)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "standard-portrait-lenses-2",
-          "titleZh": "标准人像焦段",
-          "titleEn": "Standard Portrait Lenses",
-          "items": [
+            },
             {
               "id": "standard-lens",
               "zh": "标准镜头",
@@ -7835,8 +7233,9 @@
         },
         {
           "id": "wide-angle-perspective",
-          "titleZh": "广角与空间变形",
-          "titleEn": "Wide-Angle Perspective",
+          "titleZh": "广角与空间变形 / Wide-Angle Perspective",
+          "titleEn": "广角与空间变形 / Wide-Angle Perspective",
+          "sourceTitleKey": "广角与空间变形/Wide-AnglePerspective",
           "items": [
             {
               "id": "wide-angle-lens",
@@ -7869,14 +7268,7 @@
               "image": "assets/tiles/distorted-perspective.webp",
               "sourceImage": "text_to_pic_files/640(201)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "wide-angle-perspective-2",
-          "titleZh": "广角与空间变形",
-          "titleEn": "Wide-Angle Perspective",
-          "items": [
+            },
             {
               "id": "close-wide-angle",
               "zh": "近距离广角",
@@ -7913,8 +7305,9 @@
         },
         {
           "id": "telephoto-compression",
-          "titleZh": "长焦与压缩感",
-          "titleEn": "Telephoto Compression",
+          "titleZh": "长焦与压缩感 / Telephoto Compression",
+          "titleEn": "长焦与压缩感 / Telephoto Compression",
+          "sourceTitleKey": "长焦与压缩感/TelephotoCompression",
           "items": [
             {
               "id": "telephoto-lens",
@@ -7947,14 +7340,7 @@
               "image": "assets/tiles/flattened-background.webp",
               "sourceImage": "text_to_pic_files/640(203)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "telephoto-compression-2",
-          "titleZh": "长焦与压缩感",
-          "titleEn": "Telephoto Compression",
-          "items": [
+            },
             {
               "id": "flattened-space",
               "zh": "浅空间感",
@@ -7991,8 +7377,9 @@
         },
         {
           "id": "basic-composition",
-          "titleZh": "基础构图",
-          "titleEn": "Basic Composition",
+          "titleZh": "基础构图 / Basic Composition",
+          "titleEn": "基础构图 / Basic Composition",
+          "sourceTitleKey": "基础构图/BasicComposition",
           "items": [
             {
               "id": "centered-composition",
@@ -8025,14 +7412,7 @@
               "image": "assets/tiles/asymmetrical-composition.webp",
               "sourceImage": "text_to_pic_files/640(205)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "basic-composition-2",
-          "titleZh": "基础构图",
-          "titleEn": "Basic Composition",
-          "items": [
+            },
             {
               "id": "balanced-composition",
               "zh": "平衡构图",
@@ -8069,8 +7449,9 @@
         },
         {
           "id": "space-lines",
-          "titleZh": "空间与线条",
-          "titleEn": "Space & Lines",
+          "titleZh": "空间与线条 / Space & Lines",
+          "titleEn": "空间与线条 / Space & Lines",
+          "sourceTitleKey": "空间与线条/Space&Lines",
           "items": [
             {
               "id": "negative-space",
@@ -8103,14 +7484,7 @@
               "image": "assets/tiles/layered-composition.webp",
               "sourceImage": "text_to_pic_files/640(207)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "space-lines-2",
-          "titleZh": "空间与线条",
-          "titleEn": "Space & Lines",
-          "items": [
+            },
             {
               "id": "foreground-midground-background",
               "zh": "前中后景",
@@ -8147,8 +7521,9 @@
         },
         {
           "id": "framing-occlusion",
-          "titleZh": "框架与遮挡",
-          "titleEn": "Framing & Occlusion",
+          "titleZh": "框架与遮挡 / Framing & Occlusion",
+          "titleEn": "框架与遮挡 / Framing & Occlusion",
+          "sourceTitleKey": "框架与遮挡/Framing&Occlusion",
           "items": [
             {
               "id": "frame-within-frame",
@@ -8181,14 +7556,7 @@
               "image": "assets/tiles/environmental-framing.webp",
               "sourceImage": "text_to_pic_files/640(209)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "framing-occlusion-2",
-          "titleZh": "框架与遮挡",
-          "titleEn": "Framing & Occlusion",
-          "items": [
+            },
             {
               "id": "doorway-framing",
               "zh": "门框构图",
@@ -8225,8 +7593,9 @@
         },
         {
           "id": "depth-of-field",
-          "titleZh": "景深",
-          "titleEn": "Depth of Field",
+          "titleZh": "景深 / Depth of Field",
+          "titleEn": "景深 / Depth of Field",
+          "sourceTitleKey": "景深/DepthofField",
           "items": [
             {
               "id": "shallow-depth-of-field",
@@ -8259,14 +7628,7 @@
               "image": "assets/tiles/strong-bokeh.webp",
               "sourceImage": "text_to_pic_files/640(211)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "depth-of-field-2",
-          "titleZh": "景深",
-          "titleEn": "Depth of Field",
-          "items": [
+            },
             {
               "id": "medium-depth-of-field",
               "zh": "中等景深",
@@ -8303,8 +7665,9 @@
         },
         {
           "id": "focus-placement",
-          "titleZh": "焦点位置",
-          "titleEn": "Focus Placement",
+          "titleZh": "焦点位置 / Focus Placement",
+          "titleEn": "焦点位置 / Focus Placement",
+          "sourceTitleKey": "焦点位置/FocusPlacement",
           "items": [
             {
               "id": "selective-focus",
@@ -8337,14 +7700,7 @@
               "image": "assets/tiles/foreground-focus.webp",
               "sourceImage": "text_to_pic_files/640(213)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "focus-placement-2",
-          "titleZh": "焦点位置",
-          "titleEn": "Focus Placement",
-          "items": [
+            },
             {
               "id": "background-focus",
               "zh": "背景合焦",
@@ -8381,8 +7737,9 @@
         },
         {
           "id": "defocus-visual-layers",
-          "titleZh": "失焦与视觉层次",
-          "titleEn": "Defocus & Visual Layers",
+          "titleZh": "失焦与视觉层次 / Defocus & Visual Layers",
+          "titleEn": "失焦与视觉层次 / Defocus & Visual Layers",
+          "sourceTitleKey": "失焦与视觉层次/Defocus&VisualLayers",
           "items": [
             {
               "id": "background-blur",
@@ -8415,14 +7772,7 @@
               "image": "assets/tiles/split-diopter-look.webp",
               "sourceImage": "text_to_pic_files/640(215)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "defocus-visual-layers-2",
-          "titleZh": "失焦与视觉层次",
-          "titleEn": "Defocus & Visual Layers",
-          "items": [
+            },
             {
               "id": "soft-focus-portrait",
               "zh": "柔焦人像",
@@ -8459,8 +7809,9 @@
         },
         {
           "id": "tracking-following",
-          "titleZh": "平移与跟随",
-          "titleEn": "Tracking & Following",
+          "titleZh": "平移与跟随 / Tracking & Following",
+          "titleEn": "平移与跟随 / Tracking & Following",
+          "sourceTitleKey": "平移与跟随/Tracking&Following",
           "items": [
             {
               "id": "tracking-shot",
@@ -8493,14 +7844,7 @@
               "image": "assets/tiles/follow-shot.webp",
               "sourceImage": "text_to_pic_files/640(217)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "tracking-following-2",
-          "titleZh": "平移与跟随",
-          "titleEn": "Tracking & Following",
-          "items": [
+            },
             {
               "id": "lateral-move",
               "zh": "平移镜头",
@@ -8537,8 +7881,9 @@
         },
         {
           "id": "push-pull-arc-movement",
-          "titleZh": "推拉与旋转",
-          "titleEn": "Push-Pull & Arc Movement",
+          "titleZh": "推拉与旋转 / Push-Pull & Arc Movement",
+          "titleEn": "推拉与旋转 / Push-Pull & Arc Movement",
+          "sourceTitleKey": "推拉与旋转/Push-Pull&ArcMovement",
           "items": [
             {
               "id": "push-in-shot",
@@ -8571,14 +7916,7 @@
               "image": "assets/tiles/arc-shot.webp",
               "sourceImage": "text_to_pic_files/640(219)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "push-pull-arc-movement-2",
-          "titleZh": "推拉与旋转",
-          "titleEn": "Push-Pull & Arc Movement",
-          "items": [
+            },
             {
               "id": "orbit-shot",
               "zh": "旋转环绕",
@@ -8615,8 +7953,9 @@
         },
         {
           "id": "handheld-dynamic-feel",
-          "titleZh": "手持与动态",
-          "titleEn": "Handheld & Dynamic Feel",
+          "titleZh": "手持与动态 / Handheld & Dynamic Feel",
+          "titleEn": "手持与动态 / Handheld & Dynamic Feel",
+          "sourceTitleKey": "手持与动态/Handheld&DynamicFeel",
           "items": [
             {
               "id": "handheld-camera-feel",
@@ -8649,14 +7988,7 @@
               "image": "assets/tiles/dynamic-action-shot.webp",
               "sourceImage": "text_to_pic_files/640(221)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "handheld-dynamic-feel-2",
-          "titleZh": "手持与动态",
-          "titleEn": "Handheld & Dynamic Feel",
-          "items": [
+            },
             {
               "id": "running-camera-feel",
               "zh": "奔跑跟拍",
@@ -8693,8 +8025,9 @@
         },
         {
           "id": "establishing-shots",
-          "titleZh": "场景建立",
-          "titleEn": "Establishing Shots",
+          "titleZh": "场景建立 / Establishing Shots",
+          "titleEn": "场景建立 / Establishing Shots",
+          "sourceTitleKey": "场景建立/EstablishingShots",
           "items": [
             {
               "id": "establishing-shot",
@@ -8727,14 +8060,7 @@
               "image": "assets/tiles/atmospheric-wide-shot.webp",
               "sourceImage": "text_to_pic_files/640(223)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "establishing-shots-2",
-          "titleZh": "场景建立",
-          "titleEn": "Establishing Shots",
-          "items": [
+            },
             {
               "id": "setting-introduction",
               "zh": "环境交代",
@@ -8771,8 +8097,9 @@
         },
         {
           "id": "reaction-inserts",
-          "titleZh": "人物反应",
-          "titleEn": "Reaction & Inserts",
+          "titleZh": "人物反应 / Reaction & Inserts",
+          "titleEn": "人物反应 / Reaction & Inserts",
+          "sourceTitleKey": "人物反应/Reaction&Inserts",
           "items": [
             {
               "id": "reaction-shot",
@@ -8805,14 +8132,7 @@
               "image": "assets/tiles/detail-shot.webp",
               "sourceImage": "text_to_pic_files/640(225)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "reaction-inserts-2",
-          "titleZh": "人物反应",
-          "titleEn": "Reaction & Inserts",
-          "items": [
+            },
             {
               "id": "hand-insert-shot",
               "zh": "手部插入",
@@ -8849,8 +8169,9 @@
         },
         {
           "id": "dramatic-narrative-shots",
-          "titleZh": "情绪强化",
-          "titleEn": "Dramatic Narrative Shots",
+          "titleZh": "情绪强化 / Dramatic Narrative Shots",
+          "titleEn": "情绪强化 / Dramatic Narrative Shots",
+          "sourceTitleKey": "情绪强化/DramaticNarrativeShots",
           "items": [
             {
               "id": "hero-shot",
@@ -8883,14 +8204,7 @@
               "image": "assets/tiles/final-shot.webp",
               "sourceImage": "text_to_pic_files/640(227)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "dramatic-narrative-shots-2",
-          "titleZh": "情绪强化",
-          "titleEn": "Dramatic Narrative Shots",
-          "items": [
+            },
             {
               "id": "lonely-shot",
               "zh": "孤独镜头",
@@ -8935,8 +8249,9 @@
       "subcategories": [
         {
           "id": "basic-direction",
-          "titleZh": "基础方向",
-          "titleEn": "Basic Direction",
+          "titleZh": "基础方向 / Basic Direction",
+          "titleEn": "基础方向 / Basic Direction",
+          "sourceTitleKey": "基础方向/BasicDirection",
           "items": [
             {
               "id": "front-light",
@@ -8969,14 +8284,7 @@
               "image": "assets/tiles/top-light.webp",
               "sourceImage": "text_to_pic_files/640(229)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "basic-direction-2",
-          "titleZh": "基础方向",
-          "titleEn": "Basic Direction",
-          "items": [
+            },
             {
               "id": "under-light",
               "zh": "底光",
@@ -9013,8 +8321,9 @@
         },
         {
           "id": "directional-portrait-light",
-          "titleZh": "人物方向光",
-          "titleEn": "Directional Portrait Light",
+          "titleZh": "人物方向光 / Directional Portrait Light",
+          "titleEn": "人物方向光 / Directional Portrait Light",
+          "sourceTitleKey": "人物方向光/DirectionalPortraitLight",
           "items": [
             {
               "id": "key-light-from-left",
@@ -9047,14 +8356,7 @@
               "image": "assets/tiles/back-side-light.webp",
               "sourceImage": "text_to_pic_files/640(231)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "directional-portrait-light-2",
-          "titleZh": "人物方向光",
-          "titleEn": "Directional Portrait Light",
-          "items": [
+            },
             {
               "id": "shoulder-rim-light",
               "zh": "肩部轮廓光",
@@ -9091,8 +8393,9 @@
         },
         {
           "id": "spatial-direction",
-          "titleZh": "空间方向光",
-          "titleEn": "Spatial Direction",
+          "titleZh": "空间方向光 / Spatial Direction",
+          "titleEn": "空间方向光 / Spatial Direction",
+          "sourceTitleKey": "空间方向光/SpatialDirection",
           "items": [
             {
               "id": "window-side-light",
@@ -9125,14 +8428,7 @@
               "image": "assets/tiles/skylight-top-light.webp",
               "sourceImage": "text_to_pic_files/640(233)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "spatial-direction-2",
-          "titleZh": "空间方向光",
-          "titleEn": "Spatial Direction",
-          "items": [
+            },
             {
               "id": "low-floor-light",
               "zh": "低角度地面光",
@@ -9169,8 +8465,9 @@
         },
         {
           "id": "hard-soft-light",
-          "titleZh": "硬光与软光",
-          "titleEn": "Hard & Soft Light",
+          "titleZh": "硬光与软光 / Hard & Soft Light",
+          "titleEn": "硬光与软光 / Hard & Soft Light",
+          "sourceTitleKey": "硬光与软光/Hard&SoftLight",
           "items": [
             {
               "id": "hard-light",
@@ -9203,14 +8500,7 @@
               "image": "assets/tiles/direct-light.webp",
               "sourceImage": "text_to_pic_files/640(235)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "hard-soft-light-2",
-          "titleZh": "硬光与软光",
-          "titleEn": "Hard & Soft Light",
-          "items": [
+            },
             {
               "id": "scattered-light",
               "zh": "散射光",
@@ -9247,8 +8537,9 @@
         },
         {
           "id": "apparent-source-size",
-          "titleZh": "光源大小",
-          "titleEn": "Apparent Source Size",
+          "titleZh": "光源大小 / Apparent Source Size",
+          "titleEn": "光源大小 / Apparent Source Size",
+          "sourceTitleKey": "光源大小/ApparentSourceSize",
           "items": [
             {
               "id": "small-light-source",
@@ -9281,14 +8572,7 @@
               "image": "assets/tiles/area-light-source.webp",
               "sourceImage": "text_to_pic_files/640(237)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "apparent-source-size-2",
-          "titleZh": "光源大小",
-          "titleEn": "Apparent Source Size",
-          "items": [
+            },
             {
               "id": "narrow-beam",
               "zh": "窄光束",
@@ -9325,8 +8609,9 @@
         },
         {
           "id": "light-through-materials",
-          "titleZh": "材质影响",
-          "titleEn": "Light Through Materials",
+          "titleZh": "材质影响 / Light Through Materials",
+          "titleEn": "材质影响 / Light Through Materials",
+          "sourceTitleKey": "材质影响/LightThroughMaterials",
           "items": [
             {
               "id": "sheer-curtain-diffusion",
@@ -9359,14 +8644,7 @@
               "image": "assets/tiles/water-reflected-light.webp",
               "sourceImage": "text_to_pic_files/640(239)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "light-through-materials-2",
-          "titleZh": "材质影响",
-          "titleEn": "Light Through Materials",
-          "items": [
+            },
             {
               "id": "haze-diffused-light",
               "zh": "烟雾扩散光",
@@ -9403,8 +8681,9 @@
         },
         {
           "id": "basic-contrast",
-          "titleZh": "基础明暗",
-          "titleEn": "Basic Contrast",
+          "titleZh": "基础明暗 / Basic Contrast",
+          "titleEn": "基础明暗 / Basic Contrast",
+          "sourceTitleKey": "基础明暗/BasicContrast",
           "items": [
             {
               "id": "high-contrast-lighting",
@@ -9437,14 +8716,7 @@
               "image": "assets/tiles/low-key-lighting.webp",
               "sourceImage": "text_to_pic_files/640(241)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "basic-contrast-2",
-          "titleZh": "基础明暗",
-          "titleEn": "Basic Contrast",
-          "items": [
+            },
             {
               "id": "strong-light-dark-contrast",
               "zh": "强明暗反差",
@@ -9481,8 +8753,9 @@
         },
         {
           "id": "lighting-ratio",
-          "titleZh": "光比控制",
-          "titleEn": "Lighting Ratio",
+          "titleZh": "光比控制 / Lighting Ratio",
+          "titleEn": "光比控制 / Lighting Ratio",
+          "sourceTitleKey": "光比控制/LightingRatio",
           "items": [
             {
               "id": "strong-key-light",
@@ -9515,14 +8788,7 @@
               "image": "assets/tiles/no-fill-light.webp",
               "sourceImage": "text_to_pic_files/640(243)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "lighting-ratio-2",
-          "titleZh": "光比控制",
-          "titleEn": "Lighting Ratio",
-          "items": [
+            },
             {
               "id": "1-1-lighting-ratio",
               "zh": "一比一光比",
@@ -9559,8 +8825,9 @@
         },
         {
           "id": "exposure-shadow",
-          "titleZh": "曝光与阴影",
-          "titleEn": "Exposure & Shadow",
+          "titleZh": "曝光与阴影 / Exposure & Shadow",
+          "titleEn": "曝光与阴影 / Exposure & Shadow",
+          "sourceTitleKey": "曝光与阴影/Exposure&Shadow",
           "items": [
             {
               "id": "overexposed-highlights",
@@ -9593,14 +8860,7 @@
               "image": "assets/tiles/darkened-background.webp",
               "sourceImage": "text_to_pic_files/640(245)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "exposure-shadow-2",
-          "titleZh": "曝光与阴影",
-          "titleEn": "Exposure & Shadow",
-          "items": [
+            },
             {
               "id": "detailed-shadows",
               "zh": "细节阴影",
@@ -9637,8 +8897,9 @@
         },
         {
           "id": "classic-portrait-patterns",
-          "titleZh": "经典人像布光",
-          "titleEn": "Classic Portrait Patterns",
+          "titleZh": "经典人像布光 / Classic Portrait Patterns",
+          "titleEn": "经典人像布光 / Classic Portrait Patterns",
+          "sourceTitleKey": "经典人像布光/ClassicPortraitPatterns",
           "items": [
             {
               "id": "rembrandt-lighting",
@@ -9671,14 +8932,7 @@
               "image": "assets/tiles/split-lighting.webp",
               "sourceImage": "text_to_pic_files/640(247)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "classic-portrait-patterns-2",
-          "titleZh": "经典人像布光",
-          "titleEn": "Classic Portrait Patterns",
-          "items": [
+            },
             {
               "id": "short-lighting",
               "zh": "短光",
@@ -9715,8 +8969,9 @@
         },
         {
           "id": "cinematic-portrait-light",
-          "titleZh": "电影人物布光",
-          "titleEn": "Cinematic Portrait Light",
+          "titleZh": "电影人物布光 / Cinematic Portrait Light",
+          "titleEn": "电影人物布光 / Cinematic Portrait Light",
+          "sourceTitleKey": "电影人物布光/CinematicPortraitLight",
           "items": [
             {
               "id": "single-side-key-light",
@@ -9749,14 +9004,7 @@
               "image": "assets/tiles/shadow-side-face-detail.webp",
               "sourceImage": "text_to_pic_files/640(249)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "cinematic-portrait-light-2",
-          "titleZh": "电影人物布光",
-          "titleEn": "Cinematic Portrait Light",
-          "items": [
+            },
             {
               "id": "low-key-portrait-light",
               "zh": "低调人物光",
@@ -9793,8 +9041,9 @@
         },
         {
           "id": "beauty-texture-light",
-          "titleZh": "美妆与真实质感",
-          "titleEn": "Beauty & Texture Light",
+          "titleZh": "美妆与真实质感 / Beauty & Texture Light",
+          "titleEn": "美妆与真实质感 / Beauty & Texture Light",
+          "sourceTitleKey": "美妆与真实质感/Beauty&TextureLight",
           "items": [
             {
               "id": "beauty-soft-light",
@@ -9827,14 +9076,7 @@
               "image": "assets/tiles/soft-catchlight.webp",
               "sourceImage": "text_to_pic_files/640(251)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "beauty-texture-light-2",
-          "titleZh": "美妆与真实质感",
-          "titleEn": "Beauty & Texture Light",
-          "items": [
+            },
             {
               "id": "natural-skin-texture-light",
               "zh": "自然皮肤质感",
@@ -9871,8 +9113,9 @@
         },
         {
           "id": "color-temperature",
-          "titleZh": "色温",
-          "titleEn": "Color Temperature",
+          "titleZh": "色温 / Color Temperature",
+          "titleEn": "色温 / Color Temperature",
+          "sourceTitleKey": "色温/ColorTemperature",
           "items": [
             {
               "id": "warm-light",
@@ -9905,14 +9148,7 @@
               "image": "assets/tiles/daylight-balanced-light.webp",
               "sourceImage": "text_to_pic_files/640(253)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "color-temperature-2",
-          "titleZh": "色温",
-          "titleEn": "Color Temperature",
-          "items": [
+            },
             {
               "id": "tungsten-light",
               "zh": "钨丝灯色",
@@ -9949,8 +9185,9 @@
         },
         {
           "id": "colored-light",
-          "titleZh": "色彩光",
-          "titleEn": "Colored Light",
+          "titleZh": "色彩光 / Colored Light",
+          "titleEn": "色彩光 / Colored Light",
+          "sourceTitleKey": "色彩光/ColoredLight",
           "items": [
             {
               "id": "red-light",
@@ -9983,14 +9220,7 @@
               "image": "assets/tiles/purple-light.webp",
               "sourceImage": "text_to_pic_files/640(255)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "colored-light-2",
-          "titleZh": "色彩光",
-          "titleEn": "Colored Light",
-          "items": [
+            },
             {
               "id": "teal-and-orange-lighting",
               "zh": "青橙对比光",
@@ -10027,8 +9257,9 @@
         },
         {
           "id": "emotional-color-light",
-          "titleZh": "情绪色彩",
-          "titleEn": "Emotional Color Light",
+          "titleZh": "情绪色彩 / Emotional Color Light",
+          "titleEn": "情绪色彩 / Emotional Color Light",
+          "sourceTitleKey": "情绪色彩/EmotionalColorLight",
           "items": [
             {
               "id": "gentle-warm-light",
@@ -10061,14 +9292,7 @@
               "image": "assets/tiles/dreamy-pink-light.webp",
               "sourceImage": "text_to_pic_files/640(257)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "emotional-color-light-2",
-          "titleZh": "情绪色彩",
-          "titleEn": "Emotional Color Light",
-          "items": [
+            },
             {
               "id": "lonely-cool-light",
               "zh": "孤独冷光",
@@ -10105,8 +9329,9 @@
         },
         {
           "id": "time-of-day-light",
-          "titleZh": "时间光线",
-          "titleEn": "Time of Day Light",
+          "titleZh": "时间光线 / Time of Day Light",
+          "titleEn": "时间光线 / Time of Day Light",
+          "sourceTitleKey": "时间光线/TimeofDayLight",
           "items": [
             {
               "id": "morning-light",
@@ -10139,14 +9364,7 @@
               "image": "assets/tiles/blue-hour-light.webp",
               "sourceImage": "text_to_pic_files/640(259)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "time-of-day-light-2",
-          "titleZh": "时间光线",
-          "titleEn": "Time of Day Light",
-          "items": [
+            },
             {
               "id": "golden-hour-light",
               "zh": "黄金时刻",
@@ -10183,8 +9401,9 @@
         },
         {
           "id": "indoor-natural-light",
-          "titleZh": "室内自然光",
-          "titleEn": "Indoor Natural Light",
+          "titleZh": "室内自然光 / Indoor Natural Light",
+          "titleEn": "室内自然光 / Indoor Natural Light",
+          "sourceTitleKey": "室内自然光/IndoorNaturalLight",
           "items": [
             {
               "id": "window-light",
@@ -10217,14 +9436,7 @@
               "image": "assets/tiles/room-ambient-light.webp",
               "sourceImage": "text_to_pic_files/640(261)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "indoor-natural-light-2",
-          "titleZh": "室内自然光",
-          "titleEn": "Indoor Natural Light",
-          "items": [
+            },
             {
               "id": "kitchen-morning-light",
               "zh": "厨房晨光",
@@ -10261,8 +9473,9 @@
         },
         {
           "id": "outdoor-ambient-light",
-          "titleZh": "户外环境光",
-          "titleEn": "Outdoor Ambient Light",
+          "titleZh": "户外环境光 / Outdoor Ambient Light",
+          "titleEn": "户外环境光 / Outdoor Ambient Light",
+          "sourceTitleKey": "户外环境光/OutdoorAmbientLight",
           "items": [
             {
               "id": "tree-shade-light",
@@ -10295,14 +9508,7 @@
               "image": "assets/tiles/open-shade-light.webp",
               "sourceImage": "text_to_pic_files/640(263)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "outdoor-ambient-light-2",
-          "titleZh": "户外环境光",
-          "titleEn": "Outdoor Ambient Light",
-          "items": [
+            },
             {
               "id": "seaside-reflected-light",
               "zh": "海边反射光",
@@ -10339,8 +9545,9 @@
         },
         {
           "id": "practical-light-sources",
-          "titleZh": "实用光源",
-          "titleEn": "Practical Light Sources",
+          "titleZh": "实用光源 / Practical Light Sources",
+          "titleEn": "实用光源 / Practical Light Sources",
+          "sourceTitleKey": "实用光源/PracticalLightSources",
           "items": [
             {
               "id": "table-lamp-light",
@@ -10373,14 +9580,7 @@
               "image": "assets/tiles/phone-screen-light.webp",
               "sourceImage": "text_to_pic_files/640(265)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "practical-light-sources-2",
-          "titleZh": "实用光源",
-          "titleEn": "Practical Light Sources",
-          "items": [
+            },
             {
               "id": "tv-screen-light",
               "zh": "电视屏幕光",
@@ -10417,8 +9617,9 @@
         },
         {
           "id": "motivated-lighting",
-          "titleZh": "动机光",
-          "titleEn": "Motivated Lighting",
+          "titleZh": "动机光 / Motivated Lighting",
+          "titleEn": "动机光 / Motivated Lighting",
+          "sourceTitleKey": "动机光/MotivatedLighting",
           "items": [
             {
               "id": "light-from-window",
@@ -10451,14 +9652,7 @@
               "image": "assets/tiles/streetlight-motivation.webp",
               "sourceImage": "text_to_pic_files/640(267)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "motivated-lighting-2",
-          "titleZh": "动机光",
-          "titleEn": "Motivated Lighting",
-          "items": [
+            },
             {
               "id": "dashboard-light",
               "zh": "车内仪表光",
@@ -10495,8 +9689,9 @@
         },
         {
           "id": "scene-light-logic",
-          "titleZh": "场景光源逻辑",
-          "titleEn": "Scene Light Logic",
+          "titleZh": "场景光源逻辑 / Scene Light Logic",
+          "titleEn": "场景光源逻辑 / Scene Light Logic",
+          "sourceTitleKey": "场景光源逻辑/SceneLightLogic",
           "items": [
             {
               "id": "single-motivated-source",
@@ -10529,14 +9724,7 @@
               "image": "assets/tiles/foreground-light-cue.webp",
               "sourceImage": "text_to_pic_files/640(269)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "scene-light-logic-2",
-          "titleZh": "场景光源逻辑",
-          "titleEn": "Scene Light Logic",
-          "items": [
+            },
             {
               "id": "hidden-key-light",
               "zh": "隐藏主光",
@@ -10573,8 +9761,9 @@
         },
         {
           "id": "dramatic-lighting",
-          "titleZh": "戏剧光影",
-          "titleEn": "Dramatic Lighting",
+          "titleZh": "戏剧光影 / Dramatic Lighting",
+          "titleEn": "戏剧光影 / Dramatic Lighting",
+          "sourceTitleKey": "戏剧光影/DramaticLighting",
           "items": [
             {
               "id": "silhouette-lighting",
@@ -10607,14 +9796,7 @@
               "image": "assets/tiles/figure-in-darkness.webp",
               "sourceImage": "text_to_pic_files/640(271)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "dramatic-lighting-2",
-          "titleZh": "戏剧光影",
-          "titleEn": "Dramatic Lighting",
-          "items": [
+            },
             {
               "id": "spotlighted-subject",
               "zh": "聚光人物",
@@ -10651,8 +9833,9 @@
         },
         {
           "id": "patterned-shaped-light",
-          "titleZh": "图案与切割光",
-          "titleEn": "Patterned & Shaped Light",
+          "titleZh": "图案与切割光 / Patterned & Shaped Light",
+          "titleEn": "图案与切割光 / Patterned & Shaped Light",
+          "sourceTitleKey": "图案与切割光/Patterned&ShapedLight",
           "items": [
             {
               "id": "venetian-blind-shadow",
@@ -10685,14 +9868,7 @@
               "image": "assets/tiles/geometric-light-cut.webp",
               "sourceImage": "text_to_pic_files/640(273)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "patterned-shaped-light-2",
-          "titleZh": "图案与切割光",
-          "titleEn": "Patterned & Shaped Light",
-          "items": [
+            },
             {
               "id": "slit-light",
               "zh": "窄缝光",
@@ -10729,8 +9905,9 @@
         },
         {
           "id": "stylized-cinematic-light",
-          "titleZh": "风格化电影光",
-          "titleEn": "Stylized Cinematic Light",
+          "titleZh": "风格化电影光 / Stylized Cinematic Light",
+          "titleEn": "风格化电影光 / Stylized Cinematic Light",
+          "sourceTitleKey": "风格化电影光/StylizedCinematicLight",
           "items": [
             {
               "id": "film-noir-lighting",
@@ -10763,14 +9940,7 @@
               "image": "assets/tiles/theatrical-lighting.webp",
               "sourceImage": "text_to_pic_files/640(275)",
               "sourceArticle": "https://mp.weixin.qq.com/s/sf_epNebyrKJD-mmOu0mcA"
-            }
-          ]
-        },
-        {
-          "id": "stylized-cinematic-light-2",
-          "titleZh": "风格化电影光",
-          "titleEn": "Stylized Cinematic Light",
-          "items": [
+            },
             {
               "id": "fearful-low-light",
               "zh": "恐惧感低光",

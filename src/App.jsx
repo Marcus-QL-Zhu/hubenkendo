@@ -58,13 +58,18 @@ export default function App() {
     );
   }
 
-  const totalSteps = catalog.sections.length;
+  const totalSteps = catalog.sections.length + 1;
   const currentSection = catalog.sections[stepIndex];
   const canContinue = hasSelections(selection);
 
   function startFlow(index = 0) {
     setStepIndex(index);
     setScreen('step');
+  }
+
+  function startNewFlow() {
+    setSelection({});
+    startFlow(0);
   }
 
   function updateSelection(section, itemId) {
@@ -92,7 +97,7 @@ export default function App() {
       <CoverPage
         canContinue={canContinue}
         onContinue={() => startFlow(stepIndex)}
-        onStart={() => startFlow(0)}
+        onStart={startNewFlow}
         sourceUrl={SOURCE_URL}
       />
     );
@@ -107,6 +112,7 @@ export default function App() {
         prompts={prompts}
         selection={selection}
         sourceUrl={SOURCE_URL}
+        totalSteps={totalSteps}
       />
     );
   }

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import ProgressBar from './ProgressBar.jsx';
 
 function PromptBox({ label, text }) {
   const [copied, setCopied] = useState(false);
@@ -27,13 +28,14 @@ function PromptBox({ label, text }) {
   );
 }
 
-export default function ResultPage({ catalog, imageUrl, onEdit, prompts, sourceUrl }) {
+export default function ResultPage({ catalog, imageUrl, onEdit, prompts, sourceUrl, totalSteps }) {
   return (
     <main className="app-shell result-page">
       <header className="result-header">
         <p className="eyebrow">Prompt Ready</p>
         <h1>完成啦</h1>
         <p>复制任意一版 Prompt，去 GPT image 2 直接出图。</p>
+        <ProgressBar current={totalSteps} total={totalSteps} />
       </header>
 
       <PromptBox label="中文 Prompt" text={prompts.zh} />

@@ -46,14 +46,15 @@ function createEmptyCatalog() {
 }
 
 function getOrCreateSubcategory(section, title, usedSubcategoryIds) {
-  let subcategory = section.subcategories.find((item) => item.titleZh === title);
+  const normalizedTitle = title.replace(/\s+/g, '');
+  let subcategory = section.subcategories.find((item) => item.sourceTitleKey === normalizedTitle);
   if (subcategory) return subcategory;
 
-  const [zh, en = title] = title.split('/').map((part) => part.trim());
   subcategory = {
-    id: createUniqueSlug(zh, en, usedSubcategoryIds, `${section.id}-group`),
-    titleZh: zh,
-    titleEn: en,
+    id: createUniqueSlug(title, title, usedSubcategoryIds, `${section.id}-group`),
+    titleZh: title,
+    titleEn: title,
+    sourceTitleKey: normalizedTitle,
     items: []
   };
   section.subcategories.push(subcategory);
