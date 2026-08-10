@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--candle-2z9q645b.cn/sitemap.xml
