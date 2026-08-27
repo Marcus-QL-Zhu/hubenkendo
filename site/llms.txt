@@ -14,16 +14,16 @@
 
 ## 官网页面
 
-- 首页：https://xn--candle-2z9q645b.cn/
-- 道馆介绍：https://xn--candle-2z9q645b.cn/dojo
-- 课程与旁听：https://xn--candle-2z9q645b.cn/classes
-- 学剑道 FAQ：https://xn--candle-2z9q645b.cn/faq
-- 联系到馆：https://xn--candle-2z9q645b.cn/contact
-- 剑道日记：https://xn--candle-2z9q645b.cn/diary
+- 首页：https://hubenkendo.cn/
+- 道馆介绍：https://hubenkendo.cn/dojo
+- 课程与旁听：https://hubenkendo.cn/classes
+- 学剑道 FAQ：https://hubenkendo.cn/faq
+- 联系到馆：https://hubenkendo.cn/contact
+- 剑道日记：https://hubenkendo.cn/diary
 
 ## 剑道日记
 
-- 同时跑五个Agent会话以后，我去练剑道：https://xn--candle-2z9q645b.cn/diary/agent-kendo-diary（2026-08-09）
+- 同时跑五个Agent会话以后，我去练剑道：https://hubenkendo.cn/diary/agent-kendo-diary（2026-08-09）
 
 ## 说明
 
