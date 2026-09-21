@@ -23,6 +23,7 @@
 
 ## 剑道日记
 
+- 表达越来越便宜，体验依然没有捷径：https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut（2026-09-21）
 - 同时跑五个Agent会话以后，我去练剑道：https://hubenkendo.cn/diary/agent-kendo-diary（2026-08-09）
 
 ## 说明
