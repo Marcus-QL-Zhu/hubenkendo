@@ -1,5 +1,10 @@
 # 表达越来越便宜，体验依然没有捷径
 
+> 发布日期：2026-09-21（最后更新：2026-09-22）
+> 英文标题：Expression gets cheap; experience still has no shortcut.
+> 原文：https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut/
+> Markdown 版：https://hubenkendo.cn/llms/diary/expression-cheap-experience-no-shortcut.md
+
 从一记拔击胴谈到合同谈判，再谈 AI 可以解释道理，却不能替人承受经验变成身体判断的过程。
 
 ## 表达越来越便宜，体验依然没有捷径

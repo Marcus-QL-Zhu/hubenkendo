@@ -1,5 +1,10 @@
 # 同时跑五个Agent会话以后，我去练剑道
 
+> 发布日期：2026-08-09（最后更新：2026-08-10）
+> 英文标题：Why I went kendo practice after running five coding-agent sessions at once.
+> 原文：https://hubenkendo.cn/diary/agent-kendo-diary/
+> Markdown 版：https://hubenkendo.cn/llms/diary/agent-kendo-diary.md
+
 一个同时跑多个 Codex 会话的上班族，记录自己为什么在高强度用脑之后去练剑。
 
 最近我看了一眼自己的 Codex 使用统计。累计 Token 数已经到了 131.5 亿，峰值 Token 数 10.3 亿。最长一次聊天是 23 小时 22 分。

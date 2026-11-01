@@ -1,5 +1,10 @@
 # 如果 AI 比我更能干，我还想做什么
 
+> 发布日期：2026-10-25（最后更新：2026-10-25）
+> 英文标题：If AI can do my job better than I can, what would I still want to do?
+> 原文：https://hubenkendo.cn/diary/ai-human-worth-kendo/
+> Markdown 版：https://hubenkendo.cn/llms/diary/ai-human-worth-kendo.md
+
 当工作越来越难以证明一个人的价值，我们还愿意为什么投入时间？从潮玩、围棋谈到剑道里的人的养成。
 
 去年 Labubu 很火的时候，围绕它有一个反复出现的问题，这东西到底有什么用？

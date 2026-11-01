@@ -1,5 +1,10 @@
 # 等一条重要回复时，怎样让自己别一直悬着？
 
+> 发布日期：2026-09-27（最后更新：2026-09-27）
+> 英文标题：How to keep acting while an important reply is still pending.
+> 原文：https://hubenkendo.cn/diary/uncertainty-tolerance/
+> Markdown 版：https://hubenkendo.cn/llms/diary/uncertainty-tolerance.md
+
 等重要的人迟迟没有回复，最让人难受的也许是悬着的那段时间。文章从剑道里的悬待说起，谈如何在不确定中稳住行动。
 
 ## 等一条重要回复时，怎样让自己别一直悬着？

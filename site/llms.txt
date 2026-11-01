@@ -1,32 +1,61 @@
 # 剑道虎贲馆
 
-剑道虎贲馆位于上海长宁，主要面向成年人招生，接受零基础学员。
+> 剑道虎贲馆位于上海长宁，面向成年人招生，接受零基础学员。
+> 固定训练：周六、周日 10:30–12:30。
 
-## 已确认信息
+Machine-readable guides:
 
-- 训练地址：长宁路890号玫瑰坊东区B2GH5舞蹈工作室
-- 固定训练时间：周六、周日 10:30–12:30
-- 训练安排：全年固定训练，遇到节假日或调班时会视情况通知
-- 参访旁听：可联系姚馆长预约参访旁听
-- 联系人：姚旭，剑道五段
+- 全文版 (full text, single file): https://hubenkendo.cn/llms-full.txt
+- 日记订阅 (RSS): https://hubenkendo.cn/feed.xml
+
+## Huben Kendo Dojo (English)
+
+Huben Kendo Dojo is a kendo club in Changning, Shanghai. It trains adults and accepts complete beginners with no prior kendo experience. Training is fixed every Saturday and Sunday, 10:30–12:30, all year round. Visitors may arrange to watch a session by contacting the dojo lead, Yao Xu (5th dan).
+
+The site also publishes essays on kendo practice and on working alongside AI, written from a practitioner's point of view.
+
+## 站点信息
+
+- 名称：剑道虎贲馆
+- 地址：长宁路890号玫瑰坊东区B2GH5舞蹈工作室（上海市长宁区）
+- 训练时间：周六、周日 10:30–12:30（全年固定）
+- 招生对象：成年人，接受零基础学员
+- 参访旁听：可联系姚馆长预约
+- 联系人：姚旭（剑道五段）
 - 电话：13917242246
 - 微信：yaoxu123
 
 ## 官网页面
 
 - 首页：https://hubenkendo.cn/
-- 道馆介绍：https://hubenkendo.cn/dojo
-- 课程与旁听：https://hubenkendo.cn/classes
-- 学剑道 FAQ：https://hubenkendo.cn/faq
-- 联系到馆：https://hubenkendo.cn/contact
-- 剑道日记：https://hubenkendo.cn/diary
+- Huben Kendo Dojo（/）：https://hubenkendo.cn/
+- About the dojo: location, training culture, and the practice of kendo at Huben Kendo in Shanghai Changning（/dojo）：https://hubenkendo.cn/dojo
+- Training schedule, how to join, and how to arrange a first visit to Huben Kendo in Shanghai（/classes）：https://hubenkendo.cn/classes
+- Frequently asked questions about joining a kendo club in Shanghai as an adult with no prior experience（/faq）：https://hubenkendo.cn/faq
+- Contact the dojo lead (Yao Xu) to arrange a visit to Huben Kendo, Shanghai Changning（/contact）：https://hubenkendo.cn/contact
+- Essays on kendo, practice, and working alongside AI, written by a practitioner in Shanghai（/diary）：https://hubenkendo.cn/diary
 
 ## 剑道日记
 
-- 如果 AI 比我更能干，我还想做什么：https://hubenkendo.cn/diary/ai-human-worth-kendo（2026-10-25）
-- 等一条重要回复时，怎样让自己别一直悬着？：https://hubenkendo.cn/diary/uncertainty-tolerance（2026-09-27）
-- 表达越来越便宜，体验依然没有捷径：https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut（2026-09-21）
-- 同时跑五个Agent会话以后，我去练剑道：https://hubenkendo.cn/diary/agent-kendo-diary（2026-08-09）
+按发布时间倒序。每篇提供网页原文与 Markdown 纯文本版。
+
+- 如果 AI 比我更能干，我还想做什么：https://hubenkendo.cn/diary/ai-human-worth-kendo/（2026-10-25）
+  - Markdown：https://hubenkendo.cn/llms/diary/ai-human-worth-kendo.md
+  - English: If AI can do my job better than I can, what would I still want to do?
+- 等一条重要回复时，怎样让自己别一直悬着？：https://hubenkendo.cn/diary/uncertainty-tolerance/（2026-09-27）
+  - Markdown：https://hubenkendo.cn/llms/diary/uncertainty-tolerance.md
+  - English: How to keep acting while an important reply is still pending.
+- 表达越来越便宜，体验依然没有捷径：https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut/（2026-09-21）
+  - Markdown：https://hubenkendo.cn/llms/diary/expression-cheap-experience-no-shortcut.md
+  - English: Expression gets cheap; experience still has no shortcut.
+- 同时跑五个Agent会话以后，我去练剑道：https://hubenkendo.cn/diary/agent-kendo-diary/（2026-08-09）
+  - Markdown：https://hubenkendo.cn/llms/diary/agent-kendo-diary.md
+  - English: Why I went kendo practice after running five coding-agent sessions at once.
+
+## 订阅
+
+- RSS 2.0：https://hubenkendo.cn/feed.xml
+- 全站全文：https://hubenkendo.cn/llms-full.txt
 
 ## 说明
 

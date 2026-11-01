@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>剑道虎贲馆 · 剑道日记</title>
+  <link>https://hubenkendo.cn/diary/</link>
+  <description>剑道实践与 AI 时代的思考 —— 剑道虎贲馆（上海长宁）</description>
+  <language>zh-CN</language>
+  <lastBuildDate>Sun, 25 Oct 2026 00:00:00 +0000</lastBuildDate>
+  <atom:link href="https://hubenkendo.cn/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>如果 AI 比我更能干，我还想做什么</title>
+    <link>https://hubenkendo.cn/diary/ai-human-worth-kendo/</link>
+    <guid isPermaLink="true">https://hubenkendo.cn/diary/ai-human-worth-kendo/</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+    <description>当工作越来越难以证明一个人的价值，我们还愿意为什么投入时间？从潮玩、围棋谈到剑道里的人的养成。</description>
+  </item>
+  <item>
+    <title>等一条重要回复时，怎样让自己别一直悬着？</title>
+    <link>https://hubenkendo.cn/diary/uncertainty-tolerance/</link>
+    <guid isPermaLink="true">https://hubenkendo.cn/diary/uncertainty-tolerance/</guid>
+    <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+    <description>等重要的人迟迟没有回复，最让人难受的也许是悬着的那段时间。文章从剑道里的悬待说起，谈如何在不确定中稳住行动。</description>
+  </item>
+  <item>
+    <title>表达越来越便宜，体验依然没有捷径</title>
+    <link>https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut/</link>
+    <guid isPermaLink="true">https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut/</guid>
+    <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    <description>从一记拔击胴谈到合同谈判，再谈 AI 可以解释道理，却不能替人承受经验变成身体判断的过程。</description>
+  </item>
+  <item>
+    <title>同时跑五个Agent会话以后，我去练剑道</title>
+    <link>https://hubenkendo.cn/diary/agent-kendo-diary/</link>
+    <guid isPermaLink="true">https://hubenkendo.cn/diary/agent-kendo-diary/</guid>
+    <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+    <description>一个同时跑多个 Codex 会话的上班族，记录自己为什么在高强度用脑之后去练剑。</description>
+  </item>
+</channel>
+</rss>
