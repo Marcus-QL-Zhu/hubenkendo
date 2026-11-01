@@ -11,6 +11,8 @@ This file contains the full text of every page on the site.
 
 URL: https://hubenkendo.cn/
 
+*Huben Kendo Dojo — kendo club in Changning, Shanghai. Adults welcome, zero prior experience required. Fixed training every Saturday and Sunday 10:30–12:30.*
+
 剑道虎贲馆
 
 KENDO / CHANGNING
@@ -327,6 +329,8 @@ HUBEN KENDO
 
 URL: https://hubenkendo.cn/dojo/
 
+*About the dojo: location, training culture, and the practice of kendo at Huben Kendo in Shanghai Changning.*
+
 剑道虎贲馆
 
 KENDO / CHANGNING
@@ -496,6 +500,8 @@ HUBEN KENDO
 ## 课程与旁听
 
 URL: https://hubenkendo.cn/classes/
+
+*Training schedule, how to join, and how to arrange a first visit to Huben Kendo in Shanghai.*
 
 剑道虎贲馆
 
@@ -678,6 +684,8 @@ HUBEN KENDO
 
 URL: https://hubenkendo.cn/faq/
 
+*Frequently asked questions about joining a kendo club in Shanghai as an adult with no prior experience.*
+
 剑道虎贲馆
 
 KENDO / CHANGNING
@@ -841,6 +849,8 @@ HUBEN KENDO
 ## 联系到馆
 
 URL: https://hubenkendo.cn/contact/
+
+*Contact the dojo lead (Yao Xu) to arrange a visit to Huben Kendo, Shanghai Changning.*
 
 剑道虎贲馆
 
@@ -1019,6 +1029,8 @@ HUBEN KENDO
 
 URL: https://hubenkendo.cn/diary/
 
+*Essays on kendo, practice, and working alongside AI, written by a practitioner in Shanghai.*
+
 剑道虎贲馆
 
 KENDO / CHANGNING
@@ -1188,6 +1200,8 @@ HUBEN KENDO
 
 URL: https://hubenkendo.cn/diary/agent-kendo-diary/
 
+*Why I went kendo practice after running five coding-agent sessions at once.*
+
 剑道虎贲馆
 
 KENDO / CHANGNING
@@ -1350,6 +1364,8 @@ HUBEN KENDO
 ## 如果 AI 比我更能干，我还想做什么
 
 URL: https://hubenkendo.cn/diary/ai-human-worth-kendo/
+
+*If AI can do my job better than I can, what would I still want to do?*
 
 剑道虎贲馆
 
@@ -1561,6 +1577,8 @@ HUBEN KENDO
 ## 表达越来越便宜，体验依然没有捷径
 
 URL: https://hubenkendo.cn/diary/expression-cheap-experience-no-shortcut/
+
+*Expression gets cheap; experience still has no shortcut.*
 
 剑道虎贲馆
 
@@ -1788,6 +1806,8 @@ HUBEN KENDO
 ## 等一条重要回复时，怎样让自己别一直悬着？
 
 URL: https://hubenkendo.cn/diary/uncertainty-tolerance/
+
+*How to keep acting while an important reply is still pending.*
 
 剑道虎贲馆
 

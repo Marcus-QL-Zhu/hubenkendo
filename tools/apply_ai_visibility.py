@@ -421,6 +421,12 @@ def gen_llms_full(pages):
             if m else p['path']
         path = p['path'] if p['path'].endswith('/') else p['path'] + '/'
         out += [f'## {title}', '', f'URL: {BASE}{path}', '']
+        # 每页给一段英文摘要：让英文语境下的 AI / 检索也能取到站点定位
+        en = SITE_EN.get(p['path'])
+        if en is None and p['name'].startswith('diary-'):
+            en = DIARY_EN.get(p['name'][len('diary-'):])
+        if en:
+            out += [f'*{en}*', '']
         out += [visible_text(read(SITE / p['html'])), '', '---', '']
     return '\n'.join(out)
 
