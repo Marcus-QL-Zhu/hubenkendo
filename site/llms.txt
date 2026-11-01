@@ -39,6 +39,9 @@ The site also publishes essays on kendo practice and on working alongside AI, wr
 
 按发布时间倒序。每篇提供网页原文与 Markdown 纯文本版。
 
+- 你想要的生活，是谁替你选的：https://hubenkendo.cn/diary/work-annealing-kendo/（2026-11-01）
+  - Markdown：https://hubenkendo.cn/llms/diary/work-annealing-kendo.md
+  - English: Career choices, personal priorities, and wholehearted kendo practice in the AI era.
 - 如果 AI 比我更能干，我还想做什么：https://hubenkendo.cn/diary/ai-human-worth-kendo/（2026-10-25）
   - Markdown：https://hubenkendo.cn/llms/diary/ai-human-worth-kendo.md
   - English: If AI can do my job better than I can, what would I still want to do?

@@ -50,6 +50,7 @@ STATIC_PAGES = [
 
 # 日记英文标题覆盖表（可选；没有的日记只是少一行英文说明，不影响运行）
 DIARY_EN = {
+    'work-annealing-kendo': 'Career choices, personal priorities, and wholehearted kendo practice in the AI era.',
     'agent-kendo-diary':
         'Why I went kendo practice after running five coding-agent sessions at once.',
     'uncertainty-tolerance':
